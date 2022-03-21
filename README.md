@@ -1,6 +1,6 @@
 # awesome-biological-imaging
 
-List of softwares, tools, pipelines, plugins etc. for image analysis related to biological questions. [Contributions are welcome]((https://github.com/hallvaaw/awesome-biological-image-analysis/blob/master/CONTRIBUTING.md))
+List of softwares, tools, pipelines, plugins etc. for image analysis related to biological questions. [Contributions are welcome](https://github.com/hallvaaw/awesome-biological-image-analysis/blob/master/CONTRIBUTING.md)
 
 ## General image analysis software
 [BioImageXD](https://bioimagexd.net) - BioImageXD is a free open source software package for analyzing, processing and visualizing multi-dimensional microscopy images.  
