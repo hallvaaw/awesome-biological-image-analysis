@@ -76,5 +76,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [PAM](https://gitlab.com/PAM-PIE/PAM) - PAM is a software package for quantitative analysis of fluorescence microscopy and spectroscopy data, with a focus on experiments using pulsed interleaved excitation.  
 - [PyScratch](https://bitbucket.org/vladgaal/pyscratch_public.git/src) - PyScratch is an open source tool that autonomously performs quantitative analysis of in vitro scratch assays.  
 - [Quanfima](https://github.com/rshkarin/quanfima) - Quanfima (quantitative analysis of fibrous materials) is a collection of useful functions for morphological analysis and visualization of 2D/3D data from various areas of material science.  
+- [QuPath](https://qupath.github.io/) - Open source software for digital pathology image analysis.   
+- [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) - exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy.  
 
 
