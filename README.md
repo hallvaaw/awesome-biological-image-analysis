@@ -32,9 +32,11 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 
 ## Neuroscience
 - [Automated Neuronal Differentiation Analyzer](https://github.com/EskelandLab/ANDA) - Automated Neuronal Differentation Analyzer: An open-source tool for high-throughput image analysis of neuronal differentiation.   
+- [ExplantAnalyzer](https://github.com/DominikSchmidbauer/ExplantAnlayzer) - ExplantAnalyzer: An advanced automated neurite outgrowth analysis evaluated by means of organotypic auditory neuron explant cultures.   
 - [NeuroAnatomy Toolbox](https://github.com/natverse/nat) - NeuroAnatomy Toolbox: An R package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.   
 - [NeuronJ](https://github.com/ImageScience/NeuronJ) - NeuronJ: An ImageJ Plugin for Neurite Tracing and Analysis.   
 - [RivuletPy](https://github.com/RivuletStudio/rivuletpy) - Robust 3D Neuron Tracing / General 3D tree structure extraction in Python for 3D images powered by the Rivulet2 algorithm.  
+- [SNT](https://github.com/morphonets/SNT/) - The ImageJ framework for semi-automated tracing and analysis of neurons.  
 
 
 ## Plant science
