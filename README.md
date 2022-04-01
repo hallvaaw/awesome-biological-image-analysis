@@ -3,6 +3,7 @@
 List of softwares, tools, pipelines, plugins etc. for image analysis related to biological questions. [Contributions are welcome](https://github.com/hallvaaw/awesome-biological-image-analysis/blob/master/CONTRIBUTING.md)
 
 ## General image analysis software
+- [bioimagetools](https://github.com/bioimaginggroup/bioimagetools) - bioimagetools is an R package for working with images in 3D and 4D, mostly for biology/microscopy.  
 - [BioImageXD](https://bioimagexd.net) - BioImageXD is a free open source software package for analyzing, processing and visualizing multi-dimensional microscopy images.  
 - [CellProfiler](https://github.com/CellProfiler/CellProfiler) - CellProfiler is open-source software helping biologists turn images into cell measurements.  
 - [Fiji](https://github.com/fiji/fiji) - Fiji is a "batteries-included" distribution of ImageJ—a popular, free scientific image processing application.   
@@ -19,10 +20,14 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 
 
 ## Image segmentation
+- [CakeCell](https://github.com/NCBI-Hackathons/CakeCell) - Segmenting cells (and other objects!) in microscopy images via neural networks.  
 - [Cellpose](https://github.com/MouseLand/cellpose) - A generalist algorithm for cell and nucleus segmentation.
 - [CLIJ2](https://clij.github.io/) - CLIJ2 is a GPU-accelerated image processing library for ImageJ/Fiji, Icy, Matlab and Java.
+- [Deep Lipid](https://github.com/sheneman/deep_lipid) - Machine learning for semantic segmentation of lipid droplets within quantitative phase images (QPI) of yeast cells.  
+- [ERNet](https://github.com/charlesnchr/ERNet) - ERNet: Segmentation of Endoplasmic Reticulum microscopy images using modified CNN-based image restoration models.  
 - [MorpholibJ](https://github.com/ijpb/MorphoLibJ) - MorpholibJ Collection of mathematical morphology methods and plugins for ImageJ.   
 - [StarDist](https://github.com/stardist/stardist) - Object Detection with Star-convex Shapes.
+- [SyMBac](https://github.com/georgeoshardo/SyMBac) - Accurate segmentation of bacterial microscope images using synthetically generated image data.  
 - [Trainable Weka Segmentation](https://github.com/fiji/Trainable_Segmentation) - The Trainable Weka Segmentation is a Fiji plugin and library that combines a collection of machine learning algorithms with a set of selected image features to produce pixel-based segmentations.   
 
 ## Ecology
@@ -37,6 +42,8 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [NeuronJ](https://github.com/ImageScience/NeuronJ) - NeuronJ: An ImageJ Plugin for Neurite Tracing and Analysis.   
 - [RivuletPy](https://github.com/RivuletStudio/rivuletpy) - Robust 3D Neuron Tracing / General 3D tree structure extraction in Python for 3D images powered by the Rivulet2 algorithm.  
 - [SNT](https://github.com/morphonets/SNT/) - The ImageJ framework for semi-automated tracing and analysis of neurons.  
+- [ZVQ - Zebrafish Vascular Quantification](https://github.com/ElisabethKugler/ZFVascularQuantification) - Image analysis pipeline to perform 3D quantification of the total or regional zebrafish brain vasculature using the image analysis software Fiji.  
+
 
 
 ## Plant science
@@ -70,6 +77,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 ## Particle tracking
 - [DECODE](https://github.com/TuragaLab/DECODE) - DECODE is a Python and Pytorch based deep learning tool for single molecule localization microscopy.
 - [TrackMate](https://github.com/fiji/TrackMate) - TrackMate has a user-friendly interface that allows for performing tracking, data visualization, editing results and track analysis in a convenient way. 
+- [QuimP](https://github.com/CellDynamics/QuimP) - QuimP is software for tracking cellular shape changes and dynamic distributions of fluorescent reporters at the cell membrane.  
 
 
 
@@ -79,6 +87,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Biobeam](https://maweigert.github.io/biobeam) - Biobeam is an open source software package that is designed to provide fast methods for in-silico optical experiments with an emphasize on image formation in biological tissues.  
 - [ColiCoords](https://github.com/Jhsmit/ColiCoords) - ColiCoords is a python project for analysis of fluorescence microscopy data from rodlike cells.  
 - [MorphoGraphX](https://morphographx.org) - MorphoGraphX is an open source application for the visualization and analysis of 4D biological datasets.  
+- [NUKE-BREAK](https://github.com/dcluet/NUKE-BREAK) - Automated detection of nuclei and DNA damage in Caenorhabditis elegans germline.  
 - [PAM](https://gitlab.com/PAM-PIE/PAM) - PAM is a software package for quantitative analysis of fluorescence microscopy and spectroscopy data, with a focus on experiments using pulsed interleaved excitation.  
 - [PyScratch](https://bitbucket.org/vladgaal/pyscratch_public.git/src) - PyScratch is an open source tool that autonomously performs quantitative analysis of in vitro scratch assays.  
 - [Quanfima](https://github.com/rshkarin/quanfima) - Quanfima (quantitative analysis of fibrous materials) is a collection of useful functions for morphological analysis and visualization of 2D/3D data from various areas of material science.  
