@@ -50,6 +50,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 
 ## Fluoresence in situ hybridization
 - [big-fish](https://github.com/fish-quant/big-fish) - Big-FISH is a python package for the analysis of smFISH images.   
+- [ChromaWizard](https://gitlab.com/nauer/chromawizard) - A tool for creating karyotypes of M-FISH images.  
 - [FISHcount](https://github.com/JIC-CSB/FISHcount) - Software for counting single RNA molecules using analysis of FISH data.  
 - [ThunderFish](https://github.com/aleks-szczure/ThunderFISH) - ThunderFISH is a pre-processing tool that extracts 2D single-cell RNA-FISH images from your 3D microscopy images of large field of view.   
 
