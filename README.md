@@ -7,7 +7,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [BioImageXD](https://bioimagexd.net) - BioImageXD is a free open source software package for analyzing, processing and visualizing multi-dimensional microscopy images.  
 - [CellProfiler](https://github.com/CellProfiler/CellProfiler) - CellProfiler is open-source software helping biologists turn images into cell measurements.  
 - [Fiji](https://github.com/fiji/fiji) - Fiji is a "batteries-included" distribution of ImageJ—a popular, free scientific image processing application.   
-- [flika](>https://github.com/flika-org/flika) - An interactive image processing program for biologists written in Python.  
+- [flika](https://github.com/flika-org/flika) - An interactive image processing program for biologists written in Python.  
 - [Icy](https://github.com/Icy-imaging) - Icy is an open community platform for bioimage informatics, providing software resources to visualize, annotate and quantify bioimaging data.  
 - [ilastik](https://github.com/ilastik/ilastik) - ilastik is a simple, user-friendly tool for interactive image classification, segmentation and analysis.  
 - [ImageJ](https://github.com/imagej/ImageJ) - ImageJ is public domain software for processing and analyzing scientific images.  
@@ -18,7 +18,6 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [OpenCV](https://github.com/opencv/opencv) - OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.     
 - [PYME](https://github.com/python-microscopy/python-microscopy) - an open-source application suite for light microscopy acquisition, data storage, visualization, and analysis.
 - [Scikit-image](https://github.com/scikit-image/scikit-image) - scikit-image is a collection of algorithms for image processing.   
-- [Usiigaci](https://github.com/oist/usiigaci) - Usiigaci: stain-free cell tracking in phase contrast microscopy enabled by supervised machine learning.   
 
 
 ## Image segmentation
@@ -76,10 +75,11 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Noise2Void](https://github.com/juglab/n2v) - Learning Denoising from Single Noisy Images.
 
 
-## Particle tracking
+## Cell migration and particle tracking
 - [DECODE](https://github.com/TuragaLab/DECODE) - DECODE is a Python and Pytorch based deep learning tool for single molecule localization microscopy.
 - [TrackMate](https://github.com/fiji/TrackMate) - TrackMate has a user-friendly interface that allows for performing tracking, data visualization, editing results and track analysis in a convenient way. 
 - [QuimP](https://github.com/CellDynamics/QuimP) - QuimP is software for tracking cellular shape changes and dynamic distributions of fluorescent reporters at the cell membrane.  
+- [Usiigaci](https://github.com/oist/usiigaci) - Usiigaci: stain-free cell tracking in phase contrast microscopy enabled by supervised machine learning.   
 
 
 
