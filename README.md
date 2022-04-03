@@ -34,6 +34,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 ## Ecology
 - [DeepMushroom](https://github.com/Olament/DeepMushroom) - DeepMushroom Image classification of Fungus using ResNet.  
 - [PAT-GEOM](http://ianzwchan.com/my-research/pat-geom/) - PAT-GEOM: a software package for the analysis of animal colour pattern.   
+- [ThermImageJ](https://github.com/gtatters/ThermImageJ) - ImageJ functions and macros for working with thermal image files.  
 
 
 ## Neuroscience
@@ -63,14 +64,18 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [ThunderFish](https://github.com/aleks-szczure/ThunderFISH) - ThunderFISH is a pre-processing tool that extracts 2D single-cell RNA-FISH images from your 3D microscopy images of large field of view.   
 
 
-## Super resolution
+## Electron and super resolution microscopy
+- [ASI_MTF](https://github.com/emx77/ASI_MTF) - Imagej macro to calculate the modulation transfer function (MTF) based on a knife edge (or slanted edge) measurement.  
+- [em-scalebartools](https://github.com/lukmuk/em-scalebartools) - Fiji/ImageJ macros to quickly add a scale bar to an (electron microscopy) image.  
 - [Picasso](https://github.com/jungmannlab/picasso) - A collection of tools for painting super-resolution images.  
+- [SASS](https://github.com/LEB-EPFL/SASS) - Toolkit for simulating real-time control systems for super-resolution microscopy.  
 - [SMAP](https://github.com/jries/SMAP) - a modular super-resolution microscopy analysis platform for SMLM data.  
 - [ThunderSTORM](https://github.com/kjamartens/thunderstorm) - a comprehensive ImageJ plugin for SMLM data analysis and super-resolution imaging. 
 
 
 ## Image restoration and quality assessment
 - [CSBDeep](https://github.com/CSBDeep/CSBDeep) - a deep learning toolbox for microscopy image restoration and analysis.  
+- [ijp-color](https://github.com/ij-plugins/ijp-color) - Plugins for ImageJ - color space conversions and color calibration.  
 - [NanoJ-SQUIRREL](https://github.com/superresolusian/NanoJ-SQUIRREL) - An ImageJ-based analytical approach that provides quantitative assessment of super-resolution image quality.  
 - [Noise2Void](https://github.com/juglab/n2v) - Learning Denoising from Single Noisy Images.
 
@@ -95,6 +100,9 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [PyScratch](https://bitbucket.org/vladgaal/pyscratch_public.git/src) - PyScratch is an open source tool that autonomously performs quantitative analysis of in vitro scratch assays.  
 - [Quanfima](https://github.com/rshkarin/quanfima) - Quanfima (quantitative analysis of fibrous materials) is a collection of useful functions for morphological analysis and visualization of 2D/3D data from various areas of material science.  
 - [QuPath](https://qupath.github.io/) - Open source software for digital pathology image analysis.   
+- [sbt-imagej](https://github.com/jpsacha/sbt-imagej) - sbt-imagej is an SBT (Simple Build Tool) plugin that helps with development of ImageJ plugins.  
+- [XitoSBML](https://github.com/spatialsimulator/XitoSBML) - XitoSBML is an ImageJ plugin which creates a Spatial SBML model from segmented images.  
+- [Z-stack Depth Color Code](https://github.com/ekatrukha/ZstackDepthColorCode) - ImageJ/FIJI plugin to colorcode Z-stacks/hyperstacks.  
 - [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) - exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy.  
 
 
