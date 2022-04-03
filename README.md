@@ -20,12 +20,13 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Scikit-image](https://github.com/scikit-image/scikit-image) - scikit-image is a collection of algorithms for image processing.   
 
 
-## Image segmentation
+## Image processing and segmentation
 - [CakeCell](https://github.com/NCBI-Hackathons/CakeCell) - Segmenting cells (and other objects!) in microscopy images via neural networks.  
 - [Cellpose](https://github.com/MouseLand/cellpose) - A generalist algorithm for cell and nucleus segmentation.
 - [CLIJ2](https://clij.github.io/) - CLIJ2 is a GPU-accelerated image processing library for ImageJ/Fiji, Icy, Matlab and Java.
 - [Deep Lipid](https://github.com/sheneman/deep_lipid) - Machine learning for semantic segmentation of lipid droplets within quantitative phase images (QPI) of yeast cells.  
 - [ERNet](https://github.com/charlesnchr/ERNet) - ERNet: Segmentation of Endoplasmic Reticulum microscopy images using modified CNN-based image restoration models.  
+- [ijp-DeBayer2SX](https://github.com/ij-plugins/ijp-DeBayer2SX) - Bayer-pattern image to color image converters.  
 - [MorpholibJ](https://github.com/ijpb/MorphoLibJ) - MorpholibJ Collection of mathematical morphology methods and plugins for ImageJ.   
 - [StarDist](https://github.com/stardist/stardist) - Object Detection with Star-convex Shapes.
 - [SyMBac](https://github.com/georgeoshardo/SyMBac) - Accurate segmentation of bacterial microscope images using synthetically generated image data.  
@@ -43,6 +44,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [NeuroAnatomy Toolbox](https://github.com/natverse/nat) - NeuroAnatomy Toolbox: An R package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.   
 - [NeuronJ](https://github.com/ImageScience/NeuronJ) - NeuronJ: An ImageJ Plugin for Neurite Tracing and Analysis.   
 - [RivuletPy](https://github.com/RivuletStudio/rivuletpy) - Robust 3D Neuron Tracing / General 3D tree structure extraction in Python for 3D images powered by the Rivulet2 algorithm.  
+- [SliceMap](https://github.com/mbarbie1/SliceMap) - SliceMap: An Algorithm for Automated Brain Region Annotation, implemented as FIJI(ImageJ) plugin.  
 - [SNT](https://github.com/morphonets/SNT/) - The ImageJ framework for semi-automated tracing and analysis of neurons.  
 - [ZVQ - Zebrafish Vascular Quantification](https://github.com/ElisabethKugler/ZFVascularQuantification) - Image analysis pipeline to perform 3D quantification of the total or regional zebrafish brain vasculature using the image analysis software Fiji.  
 
@@ -94,6 +96,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Biobeam](https://maweigert.github.io/biobeam) - Biobeam is an open source software package that is designed to provide fast methods for in-silico optical experiments with an emphasize on image formation in biological tissues.  
 - [BoneJ](https://github.com/bonej-org/BoneJ2) - BoneJ is a collection of Fiji/ImageJ plug-ins for skeletal biology.  
 - [ColiCoords](https://github.com/Jhsmit/ColiCoords) - ColiCoords is a python project for analysis of fluorescence microscopy data from rodlike cells.  
+- [MIA](https://github.com/mianalysis/mia) - MIA is a Fiji plugin which provides a modular framework for assembling image and object analysis workflows.  
 - [MorphoGraphX](https://morphographx.org) - MorphoGraphX is an open source application for the visualization and analysis of 4D biological datasets.  
 - [NUKE-BREAK](https://github.com/dcluet/NUKE-BREAK) - Automated detection of nuclei and DNA damage in Caenorhabditis elegans germline.  
 - [PAM](https://gitlab.com/PAM-PIE/PAM) - PAM is a software package for quantitative analysis of fluorescence microscopy and spectroscopy data, with a focus on experiments using pulsed interleaved excitation.  
