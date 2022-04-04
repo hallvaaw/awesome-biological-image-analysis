@@ -83,8 +83,10 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 
 
 ## Cell migration and particle tracking
+- [CellMigration](https://github.com/quantixed/CellMigration) - Analysis of 2D cell migration in Igor.  
 - [DECODE](https://github.com/TuragaLab/DECODE) - DECODE is a Python and Pytorch based deep learning tool for single molecule localization microscopy.
 - [TrackMate](https://github.com/fiji/TrackMate) - TrackMate has a user-friendly interface that allows for performing tracking, data visualization, editing results and track analysis in a convenient way. 
+- [TraJClassifier](https://imagej.net/plugins/trajclassifier) - This Fiji plugin loads trajectories from TrackMate, characterize them using TraJ and classifiy them into normal diffusion, subdiffusion, confined diffusion and directed/active motion by a random forest approach (through Renjin).  
 - [QuimP](https://github.com/CellDynamics/QuimP) - QuimP is software for tracking cellular shape changes and dynamic distributions of fluorescent reporters at the cell membrane.  
 - [Usiigaci](https://github.com/oist/usiigaci) - Usiigaci: stain-free cell tracking in phase contrast microscopy enabled by supervised machine learning.   
 
