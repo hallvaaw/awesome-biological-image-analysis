@@ -15,6 +15,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [ImageJ.JS](https://github.com/imjoy-team/imagej.js) - Image analysis in the browser with ImageJ.  
 - [ImagePy](https://github.com/Image-Py/imagepy) - ImagePy is an open source image processing framework written in Python.  
 - [napari](https://github.com/napari/napari) - napari is a fast, interactive, multi-dimensional image viewer for Python.   
+- [napari-J](https://github.com/MontpellierRessourcesImagerie/napari-J) - A plugin to exchange data with FIJI and to use FIJI image analysis from napari.  
 - [OpenCV](https://github.com/opencv/opencv) - OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.     
 - [PYME](https://github.com/python-microscopy/python-microscopy) - an open-source application suite for light microscopy acquisition, data storage, visualization, and analysis.
 - [Scikit-image](https://github.com/scikit-image/scikit-image) - scikit-image is a collection of algorithms for image processing.   
@@ -98,6 +99,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Biobeam](https://maweigert.github.io/biobeam) - Biobeam is an open source software package that is designed to provide fast methods for in-silico optical experiments with an emphasize on image formation in biological tissues.  
 - [BoneJ](https://github.com/bonej-org/BoneJ2) - BoneJ is a collection of Fiji/ImageJ plug-ins for skeletal biology.  
 - [ColiCoords](https://github.com/Jhsmit/ColiCoords) - ColiCoords is a python project for analysis of fluorescence microscopy data from rodlike cells.  
+- [Correlescence](https://github.com/ekatrukha/Correlescence) - This is open-source ImageJ plugin for different spatial/temporal correlation analysis of images (stacks and hyperstacks).  
 - [MIA](https://github.com/mianalysis/mia) - MIA is a Fiji plugin which provides a modular framework for assembling image and object analysis workflows.  
 - [MorphoGraphX](https://morphographx.org) - MorphoGraphX is an open source application for the visualization and analysis of 4D biological datasets.  
 - [NUKE-BREAK](https://github.com/dcluet/NUKE-BREAK) - Automated detection of nuclei and DNA damage in Caenorhabditis elegans germline.  
