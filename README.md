@@ -22,6 +22,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 
 
 ## Image processing and segmentation
+- [AtomAI](https://github.com/pycroscopy/atomai) - AtomAI is a Pytorch-based package for deep/machine learning analysis of microscopy data.  
 - [CakeCell](https://github.com/NCBI-Hackathons/CakeCell) - Segmenting cells (and other objects!) in microscopy images via neural networks.  
 - [Cellpose](https://github.com/MouseLand/cellpose) - A generalist algorithm for cell and nucleus segmentation.
 - [CLIJ2](https://clij.github.io/) - CLIJ2 is a GPU-accelerated image processing library for ImageJ/Fiji, Icy, Matlab and Java.
@@ -32,6 +33,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [MorpholibJ](https://github.com/ijpb/MorphoLibJ) - MorpholibJ Collection of mathematical morphology methods and plugins for ImageJ.   
 - [StarDist](https://github.com/stardist/stardist) - Object Detection with Star-convex Shapes.
 - [SyMBac](https://github.com/georgeoshardo/SyMBac) - Accurate segmentation of bacterial microscope images using synthetically generated image data.  
+- [TensorFlow-MIL](https://github.com/dancsalo/TensorFlow-MIL) - TF Implementation of Multiple Instance Learning FCN.  
 - [Trainable Weka Segmentation](https://github.com/fiji/Trainable_Segmentation) - The Trainable Weka Segmentation is a Fiji plugin and library that combines a collection of machine learning algorithms with a set of selected image features to produce pixel-based segmentations.   
 
 ## Ecology
@@ -110,6 +112,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [MIA](https://github.com/mianalysis/mia) - MIA is a Fiji plugin which provides a modular framework for assembling image and object analysis workflows.  
 - [MorphoGraphX](https://morphographx.org) - MorphoGraphX is an open source application for the visualization and analysis of 4D biological datasets.  
 - [NUKE-BREAK](https://github.com/dcluet/NUKE-BREAK) - Automated detection of nuclei and DNA damage in Caenorhabditis elegans germline.  
+- [OAD](https://github.com/zeiss-microscopy/OAD) - Collection of tools and scripts useful to automate microscopy workflows in ZEN Blue using Python and Open Application Development tools.  
 - [PAM](https://gitlab.com/PAM-PIE/PAM) - PAM is a software package for quantitative analysis of fluorescence microscopy and spectroscopy data, with a focus on experiments using pulsed interleaved excitation.  
 - [PathML](https://github.com/Dana-Farber-AIOS/pathml) - An open-source toolkit for computational pathology and machine learning.  
 - [PyScratch](https://bitbucket.org/vladgaal/pyscratch_public.git/src) - PyScratch is an open source tool that autonomously performs quantitative analysis of in vitro scratch assays.  
