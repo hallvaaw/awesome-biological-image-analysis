@@ -29,6 +29,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Deep Lipid](https://github.com/sheneman/deep_lipid) - Machine learning for semantic segmentation of lipid droplets within quantitative phase images (QPI) of yeast cells.  
 - [DeepSlide](https://github.com/BMIRDS/deepslide) - A Sliding Window Framework for Classification of High Resolution Microscopy Images.  
 - [ERNet](https://github.com/charlesnchr/ERNet) - ERNet: Segmentation of Endoplasmic Reticulum microscopy images using modified CNN-based image restoration models.  
+- [GPim](https://github.com/ziatdinovmax/GPim) - Gaussian processes and Bayesian optimization for images and hyperspectral data.  
 - [ijp-DeBayer2SX](https://github.com/ij-plugins/ijp-DeBayer2SX) - Bayer-pattern image to color image converters.  
 - [MorpholibJ](https://github.com/ijpb/MorphoLibJ) - MorpholibJ Collection of mathematical morphology methods and plugins for ImageJ.   
 - [StarDist](https://github.com/stardist/stardist) - Object Detection with Star-convex Shapes.
@@ -45,6 +46,8 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 ## Neuroscience
 - [Automated Neuronal Differentiation Analyzer](https://github.com/EskelandLab/ANDA) - Automated Neuronal Differentation Analyzer: An open-source tool for high-throughput image analysis of neuronal differentiation.   
 - [AxonDeepSeg](https://github.com/axondeepseg/axondeepseg)  - Segment axon and myelin from microscopy data using deep learning.  
+- [BG-atlasAPI](https://github.com/brainglobe/bg-atlasapi) - A lightweight python module to interact with atlases for systems neuroscience.  
+- [brainreg](https://github.com/brainglobe/brainreg) - Automated 3D brain registration with support for multiple species and atlases.  
 - [Cellfinder](https://github.com/brainglobe/cellfinder) - Automated 3D cell detection and registration of whole-brain images.  
 - [CloudVolume](https://github.com/seung-lab/cloud-volume) - Read and write Neuroglancer datasets programmatically.  
 - [ExplantAnalyzer](https://github.com/DominikSchmidbauer/ExplantAnlayzer) - ExplantAnalyzer: An advanced automated neurite outgrowth analysis evaluated by means of organotypic auditory neuron explant cultures.   
@@ -87,6 +90,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 ## Image restoration and quality assessment
 - [CSBDeep](https://github.com/CSBDeep/CSBDeep) - a deep learning toolbox for microscopy image restoration and analysis.  
 - [ijp-color](https://github.com/ij-plugins/ijp-color) - Plugins for ImageJ - color space conversions and color calibration.  
+- [LLSpy](https://github.com/tlambert03/LLSpy) - LLSpy is a python library to facilitate lattice light sheet data processing.  
 - [NanoJ-SQUIRREL](https://github.com/superresolusian/NanoJ-SQUIRREL) - An ImageJ-based analytical approach that provides quantitative assessment of super-resolution image quality.  
 - [Noise2Void](https://github.com/juglab/n2v) - Learning Denoising from Single Noisy Images.
 
@@ -99,6 +103,10 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [QuimP](https://github.com/CellDynamics/QuimP) - QuimP is software for tracking cellular shape changes and dynamic distributions of fluorescent reporters at the cell membrane.  
 - [Usiigaci](https://github.com/oist/usiigaci) - Usiigaci: stain-free cell tracking in phase contrast microscopy enabled by supervised machine learning.   
 
+## Pathology
+- [Minerva](https://github.com/labsyspharm/minerva-story) - Minerva Story is an image viewer that is designed specifically to make it easy for non-expert users to interact with complex tissue images.  
+- [PathML](https://github.com/Dana-Farber-AIOS/pathml) - An open-source toolkit for computational pathology and machine learning.  
+- [QuPath](https://qupath.github.io/) - Open source software for digital pathology image analysis.   
 
 
 
@@ -110,17 +118,19 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [ColiCoords](https://github.com/Jhsmit/ColiCoords) - ColiCoords is a python project for analysis of fluorescence microscopy data from rodlike cells.  
 - [Correlescence](https://github.com/ekatrukha/Correlescence) - This is open-source ImageJ plugin for different spatial/temporal correlation analysis of images (stacks and hyperstacks).  
 - [MIA](https://github.com/mianalysis/mia) - MIA is a Fiji plugin which provides a modular framework for assembling image and object analysis workflows.  
+- [MicroscPSF-Py](https://github.com/MicroscPSF/MicroscPSF-Py) - Fast and Accurate 3D PSF Computation for Fluorescence Microscopy.  
 - [MorphoGraphX](https://morphographx.org) - MorphoGraphX is an open source application for the visualization and analysis of 4D biological datasets.  
+- [nd2reader](https://github.com/Open-Science-Tools/nd2reader) - nd2reader is a pure-Python package that reads images produced by NIS Elements 4.0+.  
 - [NUKE-BREAK](https://github.com/dcluet/NUKE-BREAK) - Automated detection of nuclei and DNA damage in Caenorhabditis elegans germline.  
 - [OAD](https://github.com/zeiss-microscopy/OAD) - Collection of tools and scripts useful to automate microscopy workflows in ZEN Blue using Python and Open Application Development tools.  
 - [PAM](https://gitlab.com/PAM-PIE/PAM) - PAM is a software package for quantitative analysis of fluorescence microscopy and spectroscopy data, with a focus on experiments using pulsed interleaved excitation.  
-- [PathML](https://github.com/Dana-Farber-AIOS/pathml) - An open-source toolkit for computational pathology and machine learning.  
+- [pyotf](https://github.com/david-hoffman/pyotf) - A simulation software package for modelling optical transfer functions (OTF)/point spread functions (PSF) of optical microscopes written in python.  
 - [PyScratch](https://bitbucket.org/vladgaal/pyscratch_public.git/src) - PyScratch is an open source tool that autonomously performs quantitative analysis of in vitro scratch assays.  
 - [Quanfima](https://github.com/rshkarin/quanfima) - Quanfima (quantitative analysis of fibrous materials) is a collection of useful functions for morphological analysis and visualization of 2D/3D data from various areas of material science.  
-- [QuPath](https://qupath.github.io/) - Open source software for digital pathology image analysis.   
 - [sbt-imagej](https://github.com/jpsacha/sbt-imagej) - sbt-imagej is an SBT (Simple Build Tool) plugin that helps with development of ImageJ plugins.  
 - [XitoSBML](https://github.com/spatialsimulator/XitoSBML) - XitoSBML is an ImageJ plugin which creates a Spatial SBML model from segmented images.  
 - [Z-stack Depth Color Code](https://github.com/ekatrukha/ZstackDepthColorCode) - ImageJ/FIJI plugin to colorcode Z-stacks/hyperstacks.  
 - [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) - exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy.  
+- [ZetaStitcher](https://github.com/lens-biophotonics/ZetaStitcher) - ZetaStitcher is a tool designed to stitch large volumetric images such as those produced by Light-Sheet Fluorescence Microscopes.  
 
 
