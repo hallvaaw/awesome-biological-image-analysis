@@ -48,6 +48,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [AxonDeepSeg](https://github.com/axondeepseg/axondeepseg)  - Segment axon and myelin from microscopy data using deep learning.  
 - [BG-atlasAPI](https://github.com/brainglobe/bg-atlasapi) - A lightweight python module to interact with atlases for systems neuroscience.  
 - [brainreg](https://github.com/brainglobe/brainreg) - Automated 3D brain registration with support for multiple species and atlases.  
+- [brain-reg](https://github.com/brainglobe/brainreg-napari) - Automated 3D brain registration in napari with support for multiple species and atlases.  
 - [Cellfinder](https://github.com/brainglobe/cellfinder) - Automated 3D cell detection and registration of whole-brain images.  
 - [CloudVolume](https://github.com/seung-lab/cloud-volume) - Read and write Neuroglancer datasets programmatically.  
 - [ExplantAnalyzer](https://github.com/DominikSchmidbauer/ExplantAnlayzer) - ExplantAnalyzer: An advanced automated neurite outgrowth analysis evaluated by means of organotypic auditory neuron explant cultures.   
@@ -92,6 +93,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [ijp-color](https://github.com/ij-plugins/ijp-color) - Plugins for ImageJ - color space conversions and color calibration.  
 - [LLSpy](https://github.com/tlambert03/LLSpy) - LLSpy is a python library to facilitate lattice light sheet data processing.  
 - [NanoJ-SQUIRREL](https://github.com/superresolusian/NanoJ-SQUIRREL) - An ImageJ-based analytical approach that provides quantitative assessment of super-resolution image quality.  
+- [NCS](https://github.com/HuanglabPurdue/NCS) - NCS is a Noise Correction Algorithm for sCMOS cameras.  
 - [Noise2Void](https://github.com/juglab/n2v) - Learning Denoising from Single Noisy Images.
 
 
@@ -120,10 +122,12 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [MIA](https://github.com/mianalysis/mia) - MIA is a Fiji plugin which provides a modular framework for assembling image and object analysis workflows.  
 - [MicroscPSF-Py](https://github.com/MicroscPSF/MicroscPSF-Py) - Fast and Accurate 3D PSF Computation for Fluorescence Microscopy.  
 - [MorphoGraphX](https://morphographx.org) - MorphoGraphX is an open source application for the visualization and analysis of 4D biological datasets.  
+- [napari-aicsimageio](https://github.com/AllenCellModeling/napari-aicsimageio) - Multiple file format reading directly into napari using pure Python.  
 - [nd2reader](https://github.com/Open-Science-Tools/nd2reader) - nd2reader is a pure-Python package that reads images produced by NIS Elements 4.0+.  
 - [NUKE-BREAK](https://github.com/dcluet/NUKE-BREAK) - Automated detection of nuclei and DNA damage in Caenorhabditis elegans germline.  
 - [OAD](https://github.com/zeiss-microscopy/OAD) - Collection of tools and scripts useful to automate microscopy workflows in ZEN Blue using Python and Open Application Development tools.  
 - [PAM](https://gitlab.com/PAM-PIE/PAM) - PAM is a software package for quantitative analysis of fluorescence microscopy and spectroscopy data, with a focus on experiments using pulsed interleaved excitation.  
+- [Pycytominer](https://github.com/cytomining/pycytominer) - Data processing functions for profiling perturbations.  
 - [pyotf](https://github.com/david-hoffman/pyotf) - A simulation software package for modelling optical transfer functions (OTF)/point spread functions (PSF) of optical microscopes written in python.  
 - [PyScratch](https://bitbucket.org/vladgaal/pyscratch_public.git/src) - PyScratch is an open source tool that autonomously performs quantitative analysis of in vitro scratch assays.  
 - [Quanfima](https://github.com/rshkarin/quanfima) - Quanfima (quantitative analysis of fibrous materials) is a collection of useful functions for morphological analysis and visualization of 2D/3D data from various areas of material science.  
