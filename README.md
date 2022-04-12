@@ -144,3 +144,8 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [ZetaStitcher](https://github.com/lens-biophotonics/ZetaStitcher) - ZetaStitcher is a tool designed to stitch large volumetric images such as those produced by Light-Sheet Fluorescence Microscopes.  
 
 
+
+## Publications
+
+- [Biological imaging software tools](https://dx.doi.org/10.1038%2Fnmeth.2084)
+- [Data-analysis strategies for image-based cell profiling.](https://doi.org/10.1038/nmeth.4397)
