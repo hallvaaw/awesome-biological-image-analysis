@@ -30,6 +30,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [DeepSlide](https://github.com/BMIRDS/deepslide) - A Sliding Window Framework for Classification of High Resolution Microscopy Images.  
 - [ERNet](https://github.com/charlesnchr/ERNet) - ERNet: Segmentation of Endoplasmic Reticulum microscopy images using modified CNN-based image restoration models.  
 - [GPim](https://github.com/ziatdinovmax/GPim) - Gaussian processes and Bayesian optimization for images and hyperspectral data.  
+- [MitoSegNet](https://github.com/MitoSegNet/) - Easy-to-use Deep Learning Segmentation for Analyzing Mitochondrial Morphology.  
 - [ijp-DeBayer2SX](https://github.com/ij-plugins/ijp-DeBayer2SX) - Bayer-pattern image to color image converters.  
 - [MorpholibJ](https://github.com/ijpb/MorphoLibJ) - MorpholibJ Collection of mathematical morphology methods and plugins for ImageJ.  
 - [Sequitr](https://github.com/quantumjot/sequitr) - Microscopy image processing with TensorFlow.  
