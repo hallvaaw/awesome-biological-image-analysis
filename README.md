@@ -2,6 +2,20 @@
 
 List of softwares, tools, pipelines, plugins etc. for image analysis related to biological questions. [Contributions are welcome](https://github.com/hallvaaw/awesome-biological-image-analysis/blob/master/CONTRIBUTING.md)
 
+### Contents
+- [General image analysis software](https://github.com/hallvaaw/awesome-biological-image-analysis#general-image-analysis-software)
+- [Image processing and segmentation](https://github.com/hallvaaw/awesome-biological-image-analysis#image-processing-and-segmentation)
+- [Ecology](https://github.com/hallvaaw/awesome-biological-image-analysis#ecology)
+- [Neuroscience](https://github.com/hallvaaw/awesome-biological-image-analysis#neuroscience)
+- [Plant science](https://github.com/hallvaaw/awesome-biological-image-analysis#plant-science)
+- [Fluoresence in situ hybridization](https://github.com/hallvaaw/awesome-biological-image-analysis#fluoresence-in-situ-hybridization)
+- [Electron and super resolution microscopy](https://github.com/hallvaaw/awesome-biological-image-analysis#electron-and-super-resolution-microscropy)
+- [Image restoriation and quality assessment](https://github.com/hallvaaw/awesome-biological-image-analysis#image-restoration-and-quality-assessment)
+- [Cell migration and particle tracking](https://github.com/hallvaaw/awesome-biological-image-analysis#cell-migration-and-particle-tracking)
+- [Patholgy](https://github.com/hallvaaw/awesome-biological-image-analysis#pathology)
+- [Other](https://github.com/hallvaaw/awesome-biological-image-analysis#other)
+- [Publications](https://github.com/hallvaaw/awesome-biological-image-analysis#publications)
+
 ## General image analysis software
 - [bioimagetools](https://github.com/bioimaginggroup/bioimagetools) - bioimagetools is an R package for working with images in 3D and 4D, mostly for biology/microscopy.  
 - [BioImageXD](https://bioimagexd.net) - BioImageXD is a free open source software package for analyzing, processing and visualizing multi-dimensional microscopy images.  
