@@ -20,6 +20,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [bioimagetools](https://github.com/bioimaginggroup/bioimagetools) - bioimagetools is an R package for working with images in 3D and 4D, mostly for biology/microscopy.  
 - [BioImageXD](https://bioimagexd.net) - BioImageXD is a free open source software package for analyzing, processing and visualizing multi-dimensional microscopy images.  
 - [CellProfiler](https://github.com/CellProfiler/CellProfiler) - CellProfiler is open-source software helping biologists turn images into cell measurements.  
+- [CellProfiler Analyst](https://github.com/CellProfiler/CellProfiler-Analyst) - Open-source software for exploring and analyzing large, high-dimensional image-derived data.
 - [Fiji](https://github.com/fiji/fiji) - Fiji is a "batteries-included" distribution of ImageJ—a popular, free scientific image processing application.   
 - [flika](https://github.com/flika-org/flika) - An interactive image processing program for biologists written in Python.  
 - [Icy](https://github.com/Icy-imaging) - Icy is an open community platform for bioimage informatics, providing software resources to visualize, annotate and quantify bioimaging data.  
@@ -28,6 +29,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [ImageJ2](https://github.com/imagej/imagej2) - ImageJ2 is a rewrite of ImageJ for multidimensional image data, with a focus on scientific imaging.   
 - [ImageJ.JS](https://github.com/imjoy-team/imagej.js) - Image analysis in the browser with ImageJ.  
 - [ImagePy](https://github.com/Image-Py/imagepy) - ImagePy is an open source image processing framework written in Python.  
+- [MIPLIB](https://github.com/sakoho81/miplib) - A Python software library with a variety of functions for (optical) microscopy image restoration, reconstruction and analysis.
 - [napari](https://github.com/napari/napari) - napari is a fast, interactive, multi-dimensional image viewer for Python.   
 - [napari-J](https://github.com/MontpellierRessourcesImagerie/napari-J) - A plugin to exchange data with FIJI and to use FIJI image analysis from napari.  
 - [OpenCV](https://github.com/opencv/opencv) - OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.     
@@ -47,6 +49,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [ijp-DeBayer2SX](https://github.com/ij-plugins/ijp-DeBayer2SX) - Bayer-pattern image to color image converters.  
 - [MitoSegNet](https://github.com/MitoSegNet/) - Easy-to-use Deep Learning Segmentation for Analyzing Mitochondrial Morphology.  
 - [MorpholibJ](https://github.com/ijpb/MorphoLibJ) - MorpholibJ Collection of mathematical morphology methods and plugins for ImageJ.  
+- [PyImSegm](https://github.com/Borda/pyImSegm) - Image segmentation - general superpixel segmentation & center detection & region growing.
 - [Sequitr](https://github.com/quantumjot/sequitr) - Microscopy image processing with TensorFlow.  
 - [StarDist](https://github.com/stardist/stardist) - Object Detection with Star-convex Shapes.
 - [SyMBac](https://github.com/georgeoshardo/SyMBac) - Accurate segmentation of bacterial microscope images using synthetically generated image data.  
@@ -108,6 +111,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 ## Image restoration and quality assessment
 - [CSBDeep](https://github.com/CSBDeep/CSBDeep) - a deep learning toolbox for microscopy image restoration and analysis.  
 - [ijp-color](https://github.com/ij-plugins/ijp-color) - Plugins for ImageJ - color space conversions and color calibration.  
+- [Image Quality](https://github.com/ocampor/image-quality) - Image quality is an open source software library for Image Quality Assessment (IQA).
 - [LLSpy](https://github.com/tlambert03/LLSpy) - LLSpy is a python library to facilitate lattice light sheet data processing.  
 - [NanoJ-SQUIRREL](https://github.com/superresolusian/NanoJ-SQUIRREL) - An ImageJ-based analytical approach that provides quantitative assessment of super-resolution image quality.  
 - [NCS](https://github.com/HuanglabPurdue/NCS) - NCS is a Noise Correction Algorithm for sCMOS cameras.  
@@ -136,6 +140,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [BoneJ](https://github.com/bonej-org/BoneJ2) - BoneJ is a collection of Fiji/ImageJ plug-ins for skeletal biology.  
 - [B-Store](https://github.com/kmdouglass/bstore) - Lightweight data management and analysis tools for single-molecule microscopy.  
 - [calipy](https://github.com/delunapaolo/calipy) - Real-time, interactive exploration of 3D image stacks.  
+- [CaPTk](https://github.com/CBICA/CaPTk) - Cancer Imaging Phenomics Toolkit (CaPTk) is a software platform to perform image analysis and predictive modeling tasks.
 - [ColiCoords](https://github.com/Jhsmit/ColiCoords) - ColiCoords is a python project for analysis of fluorescence microscopy data from rodlike cells.  
 - [CompactionAnalyzer](https://github.com/davidbhr/CompactionAnalyzer) - Python package to quantify the tissue compaction (as a measure of the contractile strength) generated by cells or multicellular spheroids that are embedded in fiber materials.  
 - [Correlescence](https://github.com/ekatrukha/Correlescence) - This is open-source ImageJ plugin for different spatial/temporal correlation analysis of images (stacks and hyperstacks).  
@@ -144,6 +149,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [MicroscPSF-Py](https://github.com/MicroscPSF/MicroscPSF-Py) - Fast and Accurate 3D PSF Computation for Fluorescence Microscopy.  
 - [MorphoGraphX](https://morphographx.org) - MorphoGraphX is an open source application for the visualization and analysis of 4D biological datasets.  
 - [napari-aicsimageio](https://github.com/AllenCellModeling/napari-aicsimageio) - Multiple file format reading directly into napari using pure Python.  
+- [Neurite](https://github.com/adalca/neurite) - Neural networks toolbox focused on medical image analysis.
 - [nd2reader](https://github.com/Open-Science-Tools/nd2reader) - nd2reader is a pure-Python package that reads images produced by NIS Elements 4.0+.  
 - [NUKE-BREAK](https://github.com/dcluet/NUKE-BREAK) - Automated detection of nuclei and DNA damage in Caenorhabditis elegans germline.  
 - [OAD](https://github.com/zeiss-microscopy/OAD) - Collection of tools and scripts useful to automate microscopy workflows in ZEN Blue using Python and Open Application Development tools.  
