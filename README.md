@@ -19,6 +19,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 ## General image analysis software
 - [bioimagetools](https://github.com/bioimaginggroup/bioimagetools) - bioimagetools is an R package for working with images in 3D and 4D, mostly for biology/microscopy.  
 - [BioImageXD](https://bioimagexd.net) - BioImageXD is a free open source software package for analyzing, processing and visualizing multi-dimensional microscopy images.  
+- [BioProfiling.jl](https://github.com/menchelab/BioProfiling.jl) - A flexible Julia toolkit for high-dimensional cellular profiles.  
 - [CellProfiler](https://github.com/CellProfiler/CellProfiler) - CellProfiler is open-source software helping biologists turn images into cell measurements.  
 - [CellProfiler Analyst](https://github.com/CellProfiler/CellProfiler-Analyst) - Open-source software for exploring and analyzing large, high-dimensional image-derived data.
 - [Fiji](https://github.com/fiji/fiji) - Fiji is a "batteries-included" distribution of ImageJ—a popular, free scientific image processing application.   
@@ -29,21 +30,22 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [ImageJ2](https://github.com/imagej/imagej2) - ImageJ2 is a rewrite of ImageJ for multidimensional image data, with a focus on scientific imaging.   
 - [ImageJ.JS](https://github.com/imjoy-team/imagej.js) - Image analysis in the browser with ImageJ.  
 - [ImagePy](https://github.com/Image-Py/imagepy) - ImagePy is an open source image processing framework written in Python.  
-- [MIPLIB](https://github.com/sakoho81/miplib) - A Python software library with a variety of functions for (optical) microscopy image restoration, reconstruction and analysis.
+- [MIPLIB](https://github.com/sakoho81/miplib) - A Python software library with a variety of functions for (optical) microscopy image restoration, reconstruction and analysis.  
 - [napari](https://github.com/napari/napari) - napari is a fast, interactive, multi-dimensional image viewer for Python.   
 - [napari-J](https://github.com/MontpellierRessourcesImagerie/napari-J) - A plugin to exchange data with FIJI and to use FIJI image analysis from napari.  
-- [OpenCV](https://github.com/opencv/opencv) - OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.     
-- [PYME](https://github.com/python-microscopy/python-microscopy) - an open-source application suite for light microscopy acquisition, data storage, visualization, and analysis.
+- [OpenCV](https://github.com/opencv/opencv) - OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.   
+- [PYME](https://github.com/python-microscopy/python-microscopy) - an open-source application suite for light microscopy acquisition, data storage, visualization, and analysis.  
 - [Scikit-image](https://github.com/scikit-image/scikit-image) - scikit-image is a collection of algorithms for image processing.   
 
 
 ## Image processing and segmentation
 - [AtomAI](https://github.com/pycroscopy/atomai) - AtomAI is a Pytorch-based package for deep/machine learning analysis of microscopy data.  
 - [CakeCell](https://github.com/NCBI-Hackathons/CakeCell) - Segmenting cells (and other objects!) in microscopy images via neural networks.  
-- [Cellpose](https://github.com/MouseLand/cellpose) - A generalist algorithm for cell and nucleus segmentation.
+- [Cellpose](https://github.com/MouseLand/cellpose) - A generalist algorithm for cell and nucleus segmentation.  
 - [CLIJ2](https://clij.github.io/) - CLIJ2 is a GPU-accelerated image processing library for ImageJ/Fiji, Icy, Matlab and Java.
 - [Deep Lipid](https://github.com/sheneman/deep_lipid) - Machine learning for semantic segmentation of lipid droplets within quantitative phase images (QPI) of yeast cells.  
 - [DeepSlide](https://github.com/BMIRDS/deepslide) - A Sliding Window Framework for Classification of High Resolution Microscopy Images.  
+- [EBImage](https://github.com/aoles/EBImage) - Image processing toolbox for R.
 - [ERNet](https://github.com/charlesnchr/ERNet) - ERNet: Segmentation of Endoplasmic Reticulum microscopy images using modified CNN-based image restoration models.  
 - [GPim](https://github.com/ziatdinovmax/GPim) - Gaussian processes and Bayesian optimization for images and hyperspectral data.  
 - [ijp-DeBayer2SX](https://github.com/ij-plugins/ijp-DeBayer2SX) - Bayer-pattern image to color image converters.  
