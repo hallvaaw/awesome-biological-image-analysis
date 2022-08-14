@@ -91,6 +91,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [PlantCV](https://github.com/danforthcenter/plantcv) - PlantCV is an open-source image analysis software package targeted for plant phenotyping.   
 - [PlantSeg](https://github.com/hci-unihd/plant-seg) - PlantSeg is a tool for cell instance aware segmentation in densely packed 3D volumetric images.  
 - [Rhizovision Explorer](https://github.com/rootphenomicslab/RhizoVisionExplorer) - RhizoVision Explorer is free and open-source software developed for estimating root traits from images acquired from a flatbed scanner or camera.   
+- [RootPainter](https://github.com/Abe404/root_painter) - RootPainter: Deep Learning Segmentation of Biological Images with Corrective Annotation. 
 - [Sato-folium](https://github.com/hughpearse/Sato-folium) - Image Recognition of Plant Leaves for Species Identification.   
 
 
