@@ -88,11 +88,24 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 ## Plant science
 
 - [Aradeepopsis](https://github.com/Gregor-Mendel-Institute/aradeepopsis) - A versatile, fully open-source pipeline to extract phenotypic measurements from plant images.   
-- [PlantCV](https://github.com/danforthcenter/plantcv) - PlantCV is an open-source image analysis software package targeted for plant phenotyping.   
+- [archiDART](https://archidart.github.io) - archiDART is an R package that was developed for the automated analysis of plant root system architectures using Data Analysis of Root Tracings (DART) and Root System Markup Language (RSML) files. 
+- [Black Spot](https://www.ncbs.res.in/blackspot) - Black Spot is a free stand alone software and method to estimate leaf area from images of leaves captured using any standard flatbed scanner. 
+- [DIRT](https://github.com/Computational-Plant-Science/DIRT) - Digital Imaging of Root Traits: Extract trait measurements from images of monocot and dicot roots. 
+- [EasyPCC_V2](https://github.com/oceam/EasyPCC_V2) - Easy Plant Phenotyping Tool for both indoor and outdoor use. 
+- [GLO-Roots](https://github.com/rr-lab/GLO-Roots) - GLO-Roots: an imaging platform enabling multidimensional characterization of soil-grown roots systems. 
+- [KymoRod](https://github.com/ijpb/KymoRod) - Graphical User Interface for studying the growth of plant hypocotyl and root. 
+- [LeafByte](https://zoegp.science/leafbyte) - LeafByte is a free and open source mobile app for measuring herbivory quickly and accurately. 
+- [LeafGP](https://github.com/Crop-Phenomics-Group/Leaf-GP) - Leaf-GP, is a comprehensive software application for analysing large growth image series. 
+- [LeafJ](https://bitbucket.org/jnmaloof/leafj/src/master/) - LeafJ is a plugin for ImageJ that aids in the measurement of plant leafs. 
+- [PaCeQuant](https://mitobo.informatik.uni-halle.de/index.php/Applications/PaCeQuant) - PaCeQuant, an ImageJ-based tool, which provides a fully automatic image analysis workflow for PC shape quantification. 
+- [PhenotyperCV](https://github.com/jberry47/ddpsc_phenotypercv) - Header-only C++11 library using OpenCV for high-throughput image-based plant phenotyping.
+- [PlantCV](https://github.com/danforthcenter/plantcv) - PlantCV is an open-source image analysis software package targeted for plant phenotyping. 
 - [PlantSeg](https://github.com/hci-unihd/plant-seg) - PlantSeg is a tool for cell instance aware segmentation in densely packed 3D volumetric images.  
+- [rhizoTrak](https://prbio-hub.github.io/rhizoTrak/) - an open source tool for flexible and efficient manual annotation of complex time-series minirhizotron images. 
 - [Rhizovision Explorer](https://github.com/rootphenomicslab/RhizoVisionExplorer) - RhizoVision Explorer is free and open-source software developed for estimating root traits from images acquired from a flatbed scanner or camera.   
 - [RootPainter](https://github.com/Abe404/root_painter) - RootPainter: Deep Learning Segmentation of Biological Images with Corrective Annotation. 
-- [Sato-folium](https://github.com/hughpearse/Sato-folium) - Image Recognition of Plant Leaves for Species Identification.   
+- [Sato-folium](https://github.com/hughpearse/Sato-folium) - Image Recognition of Plant Leaves for Species Identification. 
+- [TRiP](https://github.com/KTgreenham/TRiP) - Tracking Rhythms in Plants: A motion detection algorithm for estimating circadian period from leaf movement data. 
 
 
 ## Fluoresence in situ hybridization
