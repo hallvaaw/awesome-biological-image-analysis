@@ -165,6 +165,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [MicroscPSF-Py](https://github.com/MicroscPSF/MicroscPSF-Py) - Fast and Accurate 3D PSF Computation for Fluorescence Microscopy.  
 - [MorphoGraphX](https://morphographx.org) - MorphoGraphX is an open source application for the visualization and analysis of 4D biological datasets.  
 - [napari-aicsimageio](https://github.com/AllenCellModeling/napari-aicsimageio) - Multiple file format reading directly into napari using pure Python.  
+- [NEFI2](https://github.com/05dirnbe/nefi) - NEFI2 is a Python tool created to extract networks from images.  
 - [Neurite](https://github.com/adalca/neurite) - Neural networks toolbox focused on medical image analysis.
 - [nd2reader](https://github.com/Open-Science-Tools/nd2reader) - nd2reader is a pure-Python package that reads images produced by NIS Elements 4.0+.  
 - [NUKE-BREAK](https://github.com/dcluet/NUKE-BREAK) - Automated detection of nuclei and DNA damage in Caenorhabditis elegans germline.  
@@ -175,6 +176,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [PyScratch](https://bitbucket.org/vladgaal/pyscratch_public.git/src) - PyScratch is an open source tool that autonomously performs quantitative analysis of in vitro scratch assays.  
 - [Quanfima](https://github.com/rshkarin/quanfima) - Quanfima (quantitative analysis of fibrous materials) is a collection of useful functions for morphological analysis and visualization of 2D/3D data from various areas of material science.  
 - [sbt-imagej](https://github.com/jpsacha/sbt-imagej) - sbt-imagej is an SBT (Simple Build Tool) plugin that helps with development of ImageJ plugins.  
+- [Vaa3D](https://alleninstitute.org/what-we-do/brain-science/research/products-tools/vaa3d/) - Vaa3D is open-source software for 3D/4D/5D image visualization and analysis. 
 - [XitoSBML](https://github.com/spatialsimulator/XitoSBML) - XitoSBML is an ImageJ plugin which creates a Spatial SBML model from segmented images.  
 - [Z-stack Depth Color Code](https://github.com/ekatrukha/ZstackDepthColorCode) - ImageJ/FIJI plugin to colorcode Z-stacks/hyperstacks.  
 - [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) - exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy.  
