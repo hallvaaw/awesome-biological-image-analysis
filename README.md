@@ -60,6 +60,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 
 ## Ecology
 - [DeepMushroom](https://github.com/Olament/DeepMushroom) - DeepMushroom Image classification of Fungus using ResNet.  
+- [Fungal Feature Tracker (FFT)](https://github.com/hsueh-lab/FFT) - Fungal Feature Tracker (FFT): A tool to quantitatively characterize morphology and growth of filamentous fungi. 
 - [PAT-GEOM](http://ianzwchan.com/my-research/pat-geom/) - PAT-GEOM: a software package for the analysis of animal colour pattern.   
 - [ThermImageJ](https://github.com/gtatters/ThermImageJ) - ImageJ functions and macros for working with thermal image files.  
 
