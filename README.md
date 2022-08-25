@@ -144,6 +144,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Usiigaci](https://github.com/oist/usiigaci) - Usiigaci: stain-free cell tracking in phase contrast microscopy enabled by supervised machine learning.   
 
 ## Pathology
+- [HistoClean](https://github.com/HistoCleanQUB/HistoClean) - HistoClean is a tool for the preprocessing and augmentation of images used in deep learning models. 
 - [Minerva](https://github.com/labsyspharm/minerva-story) - Minerva Story is an image viewer that is designed specifically to make it easy for non-expert users to interact with complex tissue images.  
 - [PathML](https://github.com/Dana-Farber-AIOS/pathml) - An open-source toolkit for computational pathology and machine learning.  
 - [QuPath](https://qupath.github.io/) - Open source software for digital pathology image analysis.   
