@@ -1,6 +1,6 @@
-# awesome-biological-image-analysis
+# Awesome Biological Image Analysis
 
-List of softwares, tools, pipelines, plugins etc. for image analysis related to biological questions. [Contributions are welcome](https://github.com/hallvaaw/awesome-biological-image-analysis/blob/master/CONTRIBUTING.md)
+List of softwares, tools, pipelines, plugins etc. for image analysis related to biological questions. [Contributions are welcome.](https://github.com/hallvaaw/awesome-biological-image-analysis/blob/master/CONTRIBUTING.md)
 
 ### Contents
 - [General image analysis software](https://github.com/hallvaaw/awesome-biological-image-analysis#general-image-analysis-software)
