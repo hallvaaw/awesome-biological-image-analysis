@@ -118,6 +118,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 
 ## Electron and super resolution microscopy
 - [ASI_MTF](https://github.com/emx77/ASI_MTF) - Imagej macro to calculate the modulation transfer function (MTF) based on a knife edge (or slanted edge) measurement.  
+- [empanada](https://github.com/volume-em/empanada) - Panoptic segmentation algorithms for 2D and 3D electron microscopy images. 
 - [em-scalebartools](https://github.com/lukmuk/em-scalebartools) - Fiji/ImageJ macros to quickly add a scale bar to an (electron microscopy) image.  
 - [Picasso](https://github.com/jungmannlab/picasso) - A collection of tools for painting super-resolution images.  
 - [SASS](https://github.com/LEB-EPFL/SASS) - Toolkit for simulating real-time control systems for super-resolution microscopy.  
