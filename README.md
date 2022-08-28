@@ -13,6 +13,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Image restoriation and quality assessment](https://github.com/hallvaaw/awesome-biological-image-analysis#image-restoration-and-quality-assessment)
 - [Cell migration and particle tracking](https://github.com/hallvaaw/awesome-biological-image-analysis#cell-migration-and-particle-tracking)
 - [Patholgy](https://github.com/hallvaaw/awesome-biological-image-analysis#pathology)
+- [Mycology](https://github.com/hallvaaw/awesome-biological-image-analysis#mycology)
 - [Other](https://github.com/hallvaaw/awesome-biological-image-analysis#other)
 - [Publications](https://github.com/hallvaaw/awesome-biological-image-analysis#publications)
 
@@ -22,12 +23,12 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [BioProfiling.jl](https://github.com/menchelab/BioProfiling.jl) - A flexible Julia toolkit for high-dimensional cellular profiles.
 - [CellProfiler](https://github.com/CellProfiler/CellProfiler) - CellProfiler is open-source software helping biologists turn images into cell measurements.
 - [CellProfiler Analyst](https://github.com/CellProfiler/CellProfiler-Analyst) - Open-source software for exploring and analyzing large, high-dimensional image-derived data.
-- [Fiji](https://github.com/fiji/fiji) - Fiji is a "batteries-included" distribution of ImageJ—a popular, free scientific image processing application. 
+- [Fiji](https://github.com/fiji/fiji) - Fiji is a "batteries-included" distribution of ImageJ—a popular, free scientific image processing application.
 - [flika](https://github.com/flika-org/flika) - An interactive image processing program for biologists written in Python.
 - [Icy](https://github.com/Icy-imaging) - Icy is an open community platform for bioimage informatics, providing software resources to visualize, annotate and quantify bioimaging data.
 - [ilastik](https://github.com/ilastik/ilastik) - ilastik is a simple, user-friendly tool for interactive image classification, segmentation and analysis.
 - [ImageJ](https://github.com/imagej/ImageJ) - ImageJ is public domain software for processing and analyzing scientific images.
-- [ImageJ2](https://github.com/imagej/imagej2) - ImageJ2 is a rewrite of ImageJ for multidimensional image data, with a focus on scientific imaging. 
+- [ImageJ2](https://github.com/imagej/imagej2) - ImageJ2 is a rewrite of ImageJ for multidimensional image data, with a focus on scientific imaging.
 - [ImageJ.JS](https://github.com/imjoy-team/imagej.js) - Image analysis in the browser with ImageJ.
 - [ImagePy](https://github.com/Image-Py/imagepy) - ImagePy is an open source image processing framework written in Python.
 - [MIPLIB](https://github.com/sakoho81/miplib) - A Python software library with a variety of functions for (optical) microscopy image restoration, reconstruction and analysis.
