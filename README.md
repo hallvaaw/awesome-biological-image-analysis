@@ -122,7 +122,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Picasso](https://github.com/jungmannlab/picasso) - A collection of tools for painting super-resolution images.
 - [SASS](https://github.com/LEB-EPFL/SASS) - Toolkit for simulating real-time control systems for super-resolution microscopy.
 - [SMAP](https://github.com/jries/SMAP) - a modular super-resolution microscopy analysis platform for SMLM data.
-- [ThunderSTORM](https://github.com/kjamartens/thunderstorm) - a comprehensive ImageJ plugin for SMLM data analysis and super-resolution imaging. 
+- [ThunderSTORM](https://github.com/kjamartens/thunderstorm) - a comprehensive ImageJ plugin for SMLM data analysis and super-resolution imaging.
 
 
 ## Image restoration and quality assessment
@@ -138,14 +138,15 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 ## Cell migration and particle tracking
 - [CellMigration](https://github.com/quantixed/CellMigration) - Analysis of 2D cell migration in Igor.
 - [DECODE](https://github.com/TuragaLab/DECODE) - DECODE is a Python and Pytorch based deep learning tool for single molecule localization microscopy.
-- [TrackMate](https://github.com/fiji/TrackMate) - TrackMate has a user-friendly interface that allows for performing tracking, data visualization, editing results and track analysis in a convenient way. 
+- [TrackMate](https://github.com/fiji/TrackMate) - TrackMate has a user-friendly interface that allows for performing tracking, data visualization, editing results and track analysis in a convenient way.
 - [TraJClassifier](https://imagej.net/plugins/trajclassifier) - This Fiji plugin loads trajectories from TrackMate, characterize them using TraJ and classifiy them into normal diffusion, subdiffusion, confined diffusion and directed/active motion by a random forest approach (through Renjin).
 - [QuimP](https://github.com/CellDynamics/QuimP) - QuimP is software for tracking cellular shape changes and dynamic distributions of fluorescent reporters at the cell membrane.
-- [Usiigaci](https://github.com/oist/usiigaci) - Usiigaci: stain-free cell tracking in phase contrast microscopy enabled by supervised machine learning. 
+- [Usiigaci](https://github.com/oist/usiigaci) - Usiigaci: stain-free cell tracking in phase contrast microscopy enabled by supervised machine learning.
 
 ## Pathology
 - [HistoClean](https://github.com/HistoCleanQUB/HistoClean) - HistoClean is a tool for the preprocessing and augmentation of images used in deep learning models.
 - [Minerva](https://github.com/labsyspharm/minerva-story) - Minerva Story is an image viewer that is designed specifically to make it easy for non-expert users to interact with complex tissue images.
+- [Orbit](http://www.orbit.bio) - A versatile image analysis software for biological image-based quantification using machine learning, especially for whole slide imaging.
 - [PathML](https://github.com/Dana-Farber-AIOS/pathml) - An open-source toolkit for computational pathology and machine learning.
 - [QuPath](https://qupath.github.io/) - Open source software for digital pathology image analysis.
 
