@@ -32,11 +32,11 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [ImageJ.JS](https://github.com/imjoy-team/imagej.js) - Image analysis in the browser with ImageJ.
 - [ImagePy](https://github.com/Image-Py/imagepy) - ImagePy is an open source image processing framework written in Python.
 - [MIPLIB](https://github.com/sakoho81/miplib) - A Python software library with a variety of functions for (optical) microscopy image restoration, reconstruction and analysis.
-- [napari](https://github.com/napari/napari) - napari is a fast, interactive, multi-dimensional image viewer for Python. 
+- [napari](https://github.com/napari/napari) - napari is a fast, interactive, multi-dimensional image viewer for Python.
 - [napari-J](https://github.com/MontpellierRessourcesImagerie/napari-J) - A plugin to exchange data with FIJI and to use FIJI image analysis from napari.
-- [OpenCV](https://github.com/opencv/opencv) - OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. 
+- [OpenCV](https://github.com/opencv/opencv) - OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.
 - [PYME](https://github.com/python-microscopy/python-microscopy) - an open-source application suite for light microscopy acquisition, data storage, visualization, and analysis.
-- [Scikit-image](https://github.com/scikit-image/scikit-image) - scikit-image is a collection of algorithms for image processing. 
+- [Scikit-image](https://github.com/scikit-image/scikit-image) - scikit-image is a collection of algorithms for image processing.
 
 
 ## Image processing and segmentation
@@ -57,15 +57,15 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [StarDist](https://github.com/stardist/stardist) - Object Detection with Star-convex Shapes.
 - [SyMBac](https://github.com/georgeoshardo/SyMBac) - Accurate segmentation of bacterial microscope images using synthetically generated image data.
 - [TensorFlow-MIL](https://github.com/dancsalo/TensorFlow-MIL) - TF Implementation of Multiple Instance Learning FCN.
-- [Trainable Weka Segmentation](https://github.com/fiji/Trainable_Segmentation) - The Trainable Weka Segmentation is a Fiji plugin and library that combines a collection of machine learning algorithms with a set of selected image features to produce pixel-based segmentations. 
+- [Trainable Weka Segmentation](https://github.com/fiji/Trainable_Segmentation) - The Trainable Weka Segmentation is a Fiji plugin and library that combines a collection of machine learning algorithms with a set of selected image features to produce pixel-based segmentations.
 
 ## Ecology
-- [PAT-GEOM](http://ianzwchan.com/my-research/pat-geom/) - PAT-GEOM: a software package for the analysis of animal colour pattern. 
+- [PAT-GEOM](http://ianzwchan.com/my-research/pat-geom/) - PAT-GEOM: a software package for the analysis of animal colour pattern.
 - [ThermImageJ](https://github.com/gtatters/ThermImageJ) - ImageJ functions and macros for working with thermal image files.
 
 
 ## Neuroscience
-- [Automated Neuronal Differentiation Analyzer](https://github.com/EskelandLab/ANDA) - Automated Neuronal Differentation Analyzer: An open-source tool for high-throughput image analysis of neuronal differentiation. 
+- [Automated Neuronal Differentiation Analyzer](https://github.com/EskelandLab/ANDA) - Automated Neuronal Differentation Analyzer: An open-source tool for high-throughput image analysis of neuronal differentiation.
 - [AxonDeepSeg](https://github.com/axondeepseg/axondeepseg)- Segment axon and myelin from microscopy data using deep learning.
 - [BG-atlasAPI](https://github.com/brainglobe/bg-atlasapi) - A lightweight python module to interact with atlases for systems neuroscience.
 - [brainreg](https://github.com/brainglobe/brainreg) - Automated 3D brain registration with support for multiple species and atlases.
@@ -73,10 +73,10 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Cellfinder](https://github.com/brainglobe/cellfinder) - Automated 3D cell detection and registration of whole-brain images.
 - [cellfinder-napari](https://github.com/brainglobe/cellfinder-napari) - Efficient cell detection in large images using [cellfinder](https://brainglobe.info/cellfinder) in napari.
 - [CloudVolume](https://github.com/seung-lab/cloud-volume) - Read and write Neuroglancer datasets programmatically.
-- [ExplantAnalyzer](https://github.com/DominikSchmidbauer/ExplantAnlayzer) - ExplantAnalyzer: An advanced automated neurite outgrowth analysis evaluated by means of organotypic auditory neuron explant cultures. 
-- [NeuroAnatomy Toolbox](https://github.com/natverse/nat) - NeuroAnatomy Toolbox: An R package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons. 
+- [ExplantAnalyzer](https://github.com/DominikSchmidbauer/ExplantAnlayzer) - ExplantAnalyzer: An advanced automated neurite outgrowth analysis evaluated by means of organotypic auditory neuron explant cultures.
+- [NeuroAnatomy Toolbox](https://github.com/natverse/nat) - NeuroAnatomy Toolbox: An R package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
 - [Neuroglancer](https://github.com/google/neuroglancer/) - Neuroglancer is a WebGL-based viewer for volumetric data.
-- [NeuronJ](https://github.com/ImageScience/NeuronJ) - NeuronJ: An ImageJ Plugin for Neurite Tracing and Analysis. 
+- [NeuronJ](https://github.com/ImageScience/NeuronJ) - NeuronJ: An ImageJ Plugin for Neurite Tracing and Analysis.
 - [PyTorch Connectomics](https://github.com/zudi-lin/pytorch_connectomics) - PyTorch Connectomics is a deep learning framework for automatic and semi-automatic annotation of connectomics datasets, powered by PyTorch.
 - [RivuletPy](https://github.com/RivuletStudio/rivuletpy) - Robust 3D Neuron Tracing / General 3D tree structure extraction in Python for 3D images powered by the Rivulet2 algorithm.
 - [SliceMap](https://github.com/mbarbie1/SliceMap) - SliceMap: An Algorithm for Automated Brain Region Annotation, implemented as FIJI(ImageJ) plugin.
@@ -87,37 +87,37 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 
 ## Plant science
 
-- [Aradeepopsis](https://github.com/Gregor-Mendel-Institute/aradeepopsis) - A versatile, fully open-source pipeline to extract phenotypic measurements from plant images. 
-- [archiDART](https://archidart.github.io) - archiDART is an R package that was developed for the automated analysis of plant root system architectures using Data Analysis of Root Tracings (DART) and Root System Markup Language (RSML) files. 
-- [Black Spot](https://www.ncbs.res.in/blackspot) - Black Spot is a free stand alone software and method to estimate leaf area from images of leaves captured using any standard flatbed scanner. 
-- [DIRT](https://github.com/Computational-Plant-Science/DIRT) - Digital Imaging of Root Traits: Extract trait measurements from images of monocot and dicot roots. 
-- [EasyPCC_V2](https://github.com/oceam/EasyPCC_V2) - Easy Plant Phenotyping Tool for both indoor and outdoor use. 
-- [GLO-Roots](https://github.com/rr-lab/GLO-Roots) - GLO-Roots: an imaging platform enabling multidimensional characterization of soil-grown roots systems. 
-- [KymoRod](https://github.com/ijpb/KymoRod) - Graphical User Interface for studying the growth of plant hypocotyl and root. 
-- [LeafByte](https://zoegp.science/leafbyte) - LeafByte is a free and open source mobile app for measuring herbivory quickly and accurately. 
-- [LeafGP](https://github.com/Crop-Phenomics-Group/Leaf-GP) - Leaf-GP, is a comprehensive software application for analysing large growth image series. 
-- [LeafJ](https://bitbucket.org/jnmaloof/leafj/src/master/) - LeafJ is a plugin for ImageJ that aids in the measurement of plant leafs. 
-- [PaCeQuant](https://mitobo.informatik.uni-halle.de/index.php/Applications/PaCeQuant) - PaCeQuant, an ImageJ-based tool, which provides a fully automatic image analysis workflow for PC shape quantification. 
+- [Aradeepopsis](https://github.com/Gregor-Mendel-Institute/aradeepopsis) - A versatile, fully open-source pipeline to extract phenotypic measurements from plant images.
+- [archiDART](https://archidart.github.io) - archiDART is an R package that was developed for the automated analysis of plant root system architectures using Data Analysis of Root Tracings (DART) and Root System Markup Language (RSML) files.
+- [Black Spot](https://www.ncbs.res.in/blackspot) - Black Spot is a free stand alone software and method to estimate leaf area from images of leaves captured using any standard flatbed scanner.
+- [DIRT](https://github.com/Computational-Plant-Science/DIRT) - Digital Imaging of Root Traits: Extract trait measurements from images of monocot and dicot roots.
+- [EasyPCC_V2](https://github.com/oceam/EasyPCC_V2) - Easy Plant Phenotyping Tool for both indoor and outdoor use.
+- [GLO-Roots](https://github.com/rr-lab/GLO-Roots) - GLO-Roots: an imaging platform enabling multidimensional characterization of soil-grown roots systems.
+- [KymoRod](https://github.com/ijpb/KymoRod) - Graphical User Interface for studying the growth of plant hypocotyl and root.
+- [LeafByte](https://zoegp.science/leafbyte) - LeafByte is a free and open source mobile app for measuring herbivory quickly and accurately.
+- [LeafGP](https://github.com/Crop-Phenomics-Group/Leaf-GP) - Leaf-GP, is a comprehensive software application for analysing large growth image series.
+- [LeafJ](https://bitbucket.org/jnmaloof/leafj/src/master/) - LeafJ is a plugin for ImageJ that aids in the measurement of plant leafs.
+- [PaCeQuant](https://mitobo.informatik.uni-halle.de/index.php/Applications/PaCeQuant) - PaCeQuant, an ImageJ-based tool, which provides a fully automatic image analysis workflow for PC shape quantification.
 - [PhenotyperCV](https://github.com/jberry47/ddpsc_phenotypercv) - Header-only C++11 library using OpenCV for high-throughput image-based plant phenotyping.
-- [PlantCV](https://github.com/danforthcenter/plantcv) - PlantCV is an open-source image analysis software package targeted for plant phenotyping. 
+- [PlantCV](https://github.com/danforthcenter/plantcv) - PlantCV is an open-source image analysis software package targeted for plant phenotyping.
 - [PlantSeg](https://github.com/hci-unihd/plant-seg) - PlantSeg is a tool for cell instance aware segmentation in densely packed 3D volumetric images.
-- [rhizoTrak](https://prbio-hub.github.io/rhizoTrak/) - an open source tool for flexible and efficient manual annotation of complex time-series minirhizotron images. 
-- [Rhizovision Explorer](https://github.com/rootphenomicslab/RhizoVisionExplorer) - RhizoVision Explorer is free and open-source software developed for estimating root traits from images acquired from a flatbed scanner or camera. 
-- [RootPainter](https://github.com/Abe404/root_painter) - RootPainter: Deep Learning Segmentation of Biological Images with Corrective Annotation. 
-- [Sato-folium](https://github.com/hughpearse/Sato-folium) - Image Recognition of Plant Leaves for Species Identification. 
-- [TRiP](https://github.com/KTgreenham/TRiP) - Tracking Rhythms in Plants: A motion detection algorithm for estimating circadian period from leaf movement data. 
+- [rhizoTrak](https://prbio-hub.github.io/rhizoTrak/) - an open source tool for flexible and efficient manual annotation of complex time-series minirhizotron images.
+- [Rhizovision Explorer](https://github.com/rootphenomicslab/RhizoVisionExplorer) - RhizoVision Explorer is free and open-source software developed for estimating root traits from images acquired from a flatbed scanner or camera.
+- [RootPainter](https://github.com/Abe404/root_painter) - RootPainter: Deep Learning Segmentation of Biological Images with Corrective Annotation.
+- [Sato-folium](https://github.com/hughpearse/Sato-folium) - Image Recognition of Plant Leaves for Species Identification.
+- [TRiP](https://github.com/KTgreenham/TRiP) - Tracking Rhythms in Plants: A motion detection algorithm for estimating circadian period from leaf movement data.
 
 
 ## Fluoresence in situ hybridization
-- [big-fish](https://github.com/fish-quant/big-fish) - Big-FISH is a python package for the analysis of smFISH images. 
+- [big-fish](https://github.com/fish-quant/big-fish) - Big-FISH is a python package for the analysis of smFISH images.
 - [ChromaWizard](https://gitlab.com/nauer/chromawizard) - A tool for creating karyotypes of M-FISH images.
 - [FISHcount](https://github.com/JIC-CSB/FISHcount) - Software for counting single RNA molecules using analysis of FISH data.
-- [ThunderFish](https://github.com/aleks-szczure/ThunderFISH) - ThunderFISH is a pre-processing tool that extracts 2D single-cell RNA-FISH images from your 3D microscopy images of large field of view. 
+- [ThunderFish](https://github.com/aleks-szczure/ThunderFISH) - ThunderFISH is a pre-processing tool that extracts 2D single-cell RNA-FISH images from your 3D microscopy images of large field of view.
 
 
 ## Electron and super resolution microscopy
 - [ASI_MTF](https://github.com/emx77/ASI_MTF) - Imagej macro to calculate the modulation transfer function (MTF) based on a knife edge (or slanted edge) measurement.
-- [empanada](https://github.com/volume-em/empanada) - Panoptic segmentation algorithms for 2D and 3D electron microscopy images. 
+- [empanada](https://github.com/volume-em/empanada) - Panoptic segmentation algorithms for 2D and 3D electron microscopy images.
 - [em-scalebartools](https://github.com/lukmuk/em-scalebartools) - Fiji/ImageJ macros to quickly add a scale bar to an (electron microscopy) image.
 - [Picasso](https://github.com/jungmannlab/picasso) - A collection of tools for painting super-resolution images.
 - [SASS](https://github.com/LEB-EPFL/SASS) - Toolkit for simulating real-time control systems for super-resolution microscopy.
