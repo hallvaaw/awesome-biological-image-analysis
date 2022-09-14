@@ -153,6 +153,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 ## Mycology
 - [DeepMushroom](https://github.com/Olament/DeepMushroom) - DeepMushroom Image classification of Fungus using ResNet.
 - [Fungal Feature Tracker (FFT)](https://github.com/hsueh-lab/FFT) - Fungal Feature Tracker (FFT): A tool to quantitatively characterize morphology and growth of filamentous fungi.
+- [YeastMate](https://yeastmate.readthedocs.io/en/latest/) - Neural network-assisted segmentation of mating and budding events in S. cerevisiae.
 
 
 ## Other
