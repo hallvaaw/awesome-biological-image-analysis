@@ -1,4 +1,4 @@
-# Awesome Biological Image Analysis
+# Awesome Biological Image Analysis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 List of softwares, tools, pipelines, plugins etc. for image analysis related to biological questions. [Contributions are welcome.](https://github.com/hallvaaw/awesome-biological-image-analysis/blob/master/CONTRIBUTING.md)
 
