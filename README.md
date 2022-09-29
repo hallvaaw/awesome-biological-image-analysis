@@ -183,6 +183,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [PyScratch](https://bitbucket.org/vladgaal/pyscratch_public.git/src) - PyScratch is an open source tool that autonomously performs quantitative analysis of in vitro scratch assays.
 - [Quanfima](https://github.com/rshkarin/quanfima) - Quanfima (quantitative analysis of fibrous materials) is a collection of useful functions for morphological analysis and visualization of 2D/3D data from various areas of material science.
 - [sbt-imagej](https://github.com/jpsacha/sbt-imagej) - sbt-imagej is an SBT (Simple Build Tool) plugin that helps with development of ImageJ plugins.
+- [SimpleElastix](https://github.com/SuperElastix/SimpleElastix) - Multi-lingual medical image registration library.
 - [Vaa3D](https://alleninstitute.org/what-we-do/brain-science/research/products-tools/vaa3d/) - Vaa3D is open-source software for 3D/4D/5D image visualization and analysis.
 - [XitoSBML](https://github.com/spatialsimulator/XitoSBML) - XitoSBML is an ImageJ plugin which creates a Spatial SBML model from segmented images.
 - [Z-stack Depth Color Code](https://github.com/ekatrukha/ZstackDepthColorCode) - ImageJ/FIJI plugin to colorcode Z-stacks/hyperstacks.
