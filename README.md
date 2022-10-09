@@ -195,6 +195,8 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 
 ## Publications
 
-- [A Hitchhiker's guide through the bio-image analysis software universe](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451)
-- [Biological imaging software tools](https://dx.doi.org/10.1038%2Fnmeth.2084)
+- [A Hitchhiker's guide through the bio-image analysis software universe.](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451)
+- [Biological imaging software tools.](https://dx.doi.org/10.1038%2Fnmeth.2084)
 - [Data-analysis strategies for image-based cell profiling.](https://doi.org/10.1038/nmeth.4397)
+- [Large-scale image-based screening and profiling of cellular phenotypes.](https://onlinelibrary.wiley.com/doi/10.1002/cyto.a.22909)
+- [Workflow and metrics for image quality control in large-scale high-content screens.](https://linkinghub.elsevier.com/retrieve/pii/S2472555222075943)
