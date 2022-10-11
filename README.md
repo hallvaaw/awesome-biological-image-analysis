@@ -9,7 +9,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Neuroscience](#neuroscience)
 - [Plant science](#plant-science)
 - [Fluoresence in situ hybridization](#fluoresence-in-situ-hybridization)
-- [Electron and super resolution microscopy](#electron-and-super-resolution-microscropy)
+- [Electron and super resolution microscopy](#electron-and-super-resolution-microscopy)
 - [Image restoriation and quality assessment](#image-restoration-and-quality-assessment)
 - [Cell migration and particle tracking](#cell-migration-and-particle-tracking)
 - [Patholgy](#pathology)
@@ -18,7 +18,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Publications](#publications)
 
 ## General image analysis software
-- [Bioimagetools](https://github.com/bioimaginggroup/bioimagetools) - bioimagetools is an R package for working with images in 3D and 4D, mostly for biology/microscopy.
+- [Bioimagetools](https://github.com/bioimaginggroup/bioimagetools) - Bioimagetools is an R package for working with images in 3D and 4D, mostly for biology/microscopy.
 - [BioImageXD](https://bioimagexd.net) - BioImageXD is a free open source software package for analyzing, processing and visualizing multi-dimensional microscopy images.
 - [BioProfiling.jl](https://github.com/menchelab/BioProfiling.jl) - A flexible Julia toolkit for high-dimensional cellular profiles.
 - [CellProfiler](https://github.com/CellProfiler/CellProfiler) - CellProfiler is open-source software helping biologists turn images into cell measurements.
@@ -26,17 +26,17 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Fiji](https://github.com/fiji/fiji) - Fiji is a "batteries-included" distribution of ImageJ—a popular, free scientific image processing application.
 - [Flika](https://github.com/flika-org/flika) - An interactive image processing program for biologists written in Python.
 - [Icy](https://github.com/Icy-imaging) - Icy is an open community platform for bioimage informatics, providing software resources to visualize, annotate and quantify bioimaging data.
-- [Ilastik](https://github.com/ilastik/ilastik) - ilastik is a simple, user-friendly tool for interactive image classification, segmentation and analysis.
+- [Ilastik](https://github.com/ilastik/ilastik) - Ilastik is a simple, user-friendly tool for interactive image classification, segmentation and analysis.
 - [ImageJ](https://github.com/imagej/ImageJ) - ImageJ is public domain software for processing and analyzing scientific images.
 - [ImageJ2](https://github.com/imagej/imagej2) - ImageJ2 is a rewrite of ImageJ for multidimensional image data, with a focus on scientific imaging.
 - [ImageJ.JS](https://github.com/imjoy-team/imagej.js) - Image analysis in the browser with ImageJ.
 - [ImagePy](https://github.com/Image-Py/imagepy) - ImagePy is an open source image processing framework written in Python.
 - [MIPLIB](https://github.com/sakoho81/miplib) - A Python software library with a variety of functions for (optical) microscopy image restoration, reconstruction and analysis.
-- [Napari](https://github.com/napari/napari) - napari is a fast, interactive, multi-dimensional image viewer for Python.
+- [Napari](https://github.com/napari/napari) - Napari is a fast, interactive, multi-dimensional image viewer for Python.
 - [Napari-J](https://github.com/MontpellierRessourcesImagerie/napari-J) - A plugin to exchange data with FIJI and to use FIJI image analysis from napari.
 - [OpenCV](https://github.com/opencv/opencv) - OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.
-- [PYME](https://github.com/python-microscopy/python-microscopy) - an open-source application suite for light microscopy acquisition, data storage, visualization, and analysis.
-- [Scikit-image](https://github.com/scikit-image/scikit-image) - scikit-image is a collection of algorithms for image processing.
+- [PYME](https://github.com/python-microscopy/python-microscopy) - An open-source application suite for light microscopy acquisition, data storage, visualization, and analysis.
+- [Scikit-image](https://github.com/scikit-image/scikit-image) - Scikit-image is a collection of algorithms for image processing.
 
 
 ## Image processing and segmentation
@@ -101,7 +101,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [PhenotyperCV](https://github.com/jberry47/ddpsc_phenotypercv) - Header-only C++11 library using OpenCV for high-throughput image-based plant phenotyping.
 - [PlantCV](https://github.com/danforthcenter/plantcv) - PlantCV is an open-source image analysis software package targeted for plant phenotyping.
 - [PlantSeg](https://github.com/hci-unihd/plant-seg) - PlantSeg is a tool for cell instance aware segmentation in densely packed 3D volumetric images.
-- [RhizoTrak](https://prbio-hub.github.io/rhizoTrak/) - an open source tool for flexible and efficient manual annotation of complex time-series minirhizotron images.
+- [RhizoTrak](https://prbio-hub.github.io/rhizoTrak/) - An open source tool for flexible and efficient manual annotation of complex time-series minirhizotron images.
 - [Rhizovision Explorer](https://github.com/rootphenomicslab/RhizoVisionExplorer) - RhizoVision Explorer is free and open-source software developed for estimating root traits from images acquired from a flatbed scanner or camera.
 - [RootPainter](https://github.com/Abe404/root_painter) - RootPainter: Deep Learning Segmentation of Biological Images with Corrective Annotation.
 - [Sato-folium](https://github.com/hughpearse/Sato-folium) - Image Recognition of Plant Leaves for Species Identification.
@@ -121,12 +121,12 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Em-scalebartools](https://github.com/lukmuk/em-scalebartools) - Fiji/ImageJ macros to quickly add a scale bar to an (electron microscopy) image.
 - [Picasso](https://github.com/jungmannlab/picasso) - A collection of tools for painting super-resolution images.
 - [SASS](https://github.com/LEB-EPFL/SASS) - Toolkit for simulating real-time control systems for super-resolution microscopy.
-- [SMAP](https://github.com/jries/SMAP) - a modular super-resolution microscopy analysis platform for SMLM data.
+- [SMAP](https://github.com/jries/SMAP) - A modular super-resolution microscopy analysis platform for SMLM data.
 - [ThunderSTORM](https://github.com/kjamartens/thunderstorm) - a comprehensive ImageJ plugin for SMLM data analysis and super-resolution imaging.
 
 
 ## Image restoration and quality assessment
-- [CSBDeep](https://github.com/CSBDeep/CSBDeep) - a deep learning toolbox for microscopy image restoration and analysis.
+- [CSBDeep](https://github.com/CSBDeep/CSBDeep) - A deep learning toolbox for microscopy image restoration and analysis.
 - [Ijp-color](https://github.com/ij-plugins/ijp-color) - Plugins for ImageJ - color space conversions and color calibration.
 - [Image Quality](https://github.com/ocampor/image-quality) - Image quality is an open source software library for Image Quality Assessment (IQA).
 - [LLSpy](https://github.com/tlambert03/LLSpy) - LLSpy is a python library to facilitate lattice light sheet data processing.
@@ -159,7 +159,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 
 ## Other
 - [AICSImageIO](https://github.com/AllenCellModeling/aicsimageio) - Image Reading, Metadata Conversion, and Image Writing for Microscopy Images in Python.
-- [BactMap](https://github.com/veeninglab/bactmap) - a command-line based R package that allows researchers to transform cell segmentation and spot detection data generated by different programs into various plots.
+- [BactMap](https://github.com/veeninglab/bactmap) - A command-line based R package that allows researchers to transform cell segmentation and spot detection data generated by different programs into various plots.
 - [Biobeam](https://maweigert.github.io/biobeam) - Biobeam is an open source software package that is designed to provide fast methods for in-silico optical experiments with an emphasize on image formation in biological tissues.
 - [BoneJ](https://github.com/bonej-org/BoneJ2) - BoneJ is a collection of Fiji/ImageJ plug-ins for skeletal biology.
 - [B-Store](https://github.com/kmdouglass/bstore) - Lightweight data management and analysis tools for single-molecule microscopy.
@@ -168,7 +168,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [ColiCoords](https://github.com/Jhsmit/ColiCoords) - ColiCoords is a python project for analysis of fluorescence microscopy data from rodlike cells.
 - [CompactionAnalyzer](https://github.com/davidbhr/CompactionAnalyzer) - Python package to quantify the tissue compaction (as a measure of the contractile strength) generated by cells or multicellular spheroids that are embedded in fiber materials.
 - [Correlescence](https://github.com/ekatrukha/Correlescence) - This is open-source ImageJ plugin for different spatial/temporal correlation analysis of images (stacks and hyperstacks).
-- [Cytominer-database](https://github.com/cytomining/cytominer-database) - cytominer-database provides command-line tools for organizing measurements extracted from images.
+- [Cytominer-database](https://github.com/cytomining/cytominer-database) - Cytominer-database provides command-line tools for organizing measurements extracted from images.
 - [MIA](https://github.com/mianalysis/mia) - MIA is a Fiji plugin which provides a modular framework for assembling image and object analysis workflows.
 - [MicroscPSF-Py](https://github.com/MicroscPSF/MicroscPSF-Py) - Fast and Accurate 3D PSF Computation for Fluorescence Microscopy.
 - [MorphoGraphX](https://morphographx.org) - MorphoGraphX is an open source application for the visualization and analysis of 4D biological datasets.
@@ -183,12 +183,12 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Pyotf](https://github.com/david-hoffman/pyotf) - A simulation software package for modelling optical transfer functions (OTF)/point spread functions (PSF) of optical microscopes written in python.
 - [PyScratch](https://bitbucket.org/vladgaal/pyscratch_public.git/src) - PyScratch is an open source tool that autonomously performs quantitative analysis of in vitro scratch assays.
 - [Quanfima](https://github.com/rshkarin/quanfima) - Quanfima (quantitative analysis of fibrous materials) is a collection of useful functions for morphological analysis and visualization of 2D/3D data from various areas of material science.
-- [Sbt-imagej](https://github.com/jpsacha/sbt-imagej) - sbt-imagej is an SBT (Simple Build Tool) plugin that helps with development of ImageJ plugins.
+- [Sbt-imagej](https://github.com/jpsacha/sbt-imagej) - Sbt-imagej is an SBT (Simple Build Tool) plugin that helps with development of ImageJ plugins.
 - [SimpleElastix](https://github.com/SuperElastix/SimpleElastix) - Multi-lingual medical image registration library.
 - [Vaa3D](https://alleninstitute.org/what-we-do/brain-science/research/products-tools/vaa3d/) - Vaa3D is open-source software for 3D/4D/5D image visualization and analysis.
 - [XitoSBML](https://github.com/spatialsimulator/XitoSBML) - XitoSBML is an ImageJ plugin which creates a Spatial SBML model from segmented images.
 - [Z-stack Depth Color Code](https://github.com/ekatrukha/ZstackDepthColorCode) - ImageJ/FIJI plugin to colorcode Z-stacks/hyperstacks.
-- [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) - exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy.
+- [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) - Exploiting Google Colab to develop a free and open-source toolbox for Deep-Learning in microscopy.
 - [ZetaStitcher](https://github.com/lens-biophotonics/ZetaStitcher) - ZetaStitcher is a tool designed to stitch large volumetric images such as those produced by Light-Sheet Fluorescence Microscopes.
 
 
