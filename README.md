@@ -10,7 +10,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Plant science](#plant-science)
 - [Fluoresence in situ hybridization](#fluoresence-in-situ-hybridization)
 - [Electron and super resolution microscopy](#electron-and-super-resolution-microscopy)
-- [Image restoriation and quality assessment](#image-restoration-and-quality-assessment)
+- [Image restoration and quality assessment](#image-restoration-and-quality-assessment)
 - [Cell migration and particle tracking](#cell-migration-and-particle-tracking)
 - [Patholgy](#pathology)
 - [Mycology](#mycology)
@@ -122,7 +122,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Picasso](https://github.com/jungmannlab/picasso) - A collection of tools for painting super-resolution images.
 - [SASS](https://github.com/LEB-EPFL/SASS) - Toolkit for simulating real-time control systems for super-resolution microscopy.
 - [SMAP](https://github.com/jries/SMAP) - A modular super-resolution microscopy analysis platform for SMLM data.
-- [ThunderSTORM](https://github.com/kjamartens/thunderstorm) - a comprehensive ImageJ plugin for SMLM data analysis and super-resolution imaging.
+- [ThunderSTORM](https://github.com/kjamartens/thunderstorm) - A comprehensive ImageJ plugin for SMLM data analysis and super-resolution imaging.
 
 
 ## Image restoration and quality assessment
