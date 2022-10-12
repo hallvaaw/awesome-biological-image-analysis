@@ -12,7 +12,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Electron and super resolution microscopy](#electron-and-super-resolution-microscopy)
 - [Image restoration and quality assessment](#image-restoration-and-quality-assessment)
 - [Cell migration and particle tracking](#cell-migration-and-particle-tracking)
-- [Patholgy](#pathology)
+- [Pathology](#pathology)
 - [Mycology](#mycology)
 - [Other](#other)
 - [Publications](#publications)
