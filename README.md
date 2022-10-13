@@ -19,6 +19,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Publications](#publications)
 
 ## General image analysis software
+- [3D Slicer](https://github.com/Slicer/Slicer) - 3D Slicer is a free, open source and multi-platform software package widely used     for medical, biomedical, and related imaging research.
 - [Bioimagetools](https://github.com/bioimaginggroup/bioimagetools) - Bioimagetools is an R package for working with images in 3D and 4D, mostly for biology/microscopy.
 - [BioImageXD](https://bioimagexd.net) - BioImageXD is a free open source software package for analyzing, processing and visualizing multi-dimensional microscopy images.
 - [BioProfiling.jl](https://github.com/menchelab/BioProfiling.jl) - A flexible Julia toolkit for high-dimensional cellular profiles.
@@ -53,6 +54,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Ijp-DeBayer2SX](https://github.com/ij-plugins/ijp-DeBayer2SX) - Bayer-pattern image to color image converters.
 - [MitoSegNet](https://github.com/MitoSegNet/) - Easy-to-use Deep Learning Segmentation for Analyzing Mitochondrial Morphology.
 - [MorpholibJ](https://github.com/ijpb/MorphoLibJ) - MorpholibJ Collection of mathematical morphology methods and plugins for ImageJ.
+- [PartSeg](https://github.com/4DNucleome/PartSeg) - PartSeg is a GUI and a library for segmentation algorithms.
 - [PyImSegm](https://github.com/Borda/pyImSegm) - Image segmentation - general superpixel segmentation & center detection & region growing.
 - [Sequitr](https://github.com/quantumjot/sequitr) - Microscopy image processing with TensorFlow.
 - [StarDist](https://github.com/stardist/stardist) - Object Detection with Star-convex Shapes.
@@ -120,6 +122,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [ASI_MTF](https://github.com/emx77/ASI_MTF) - Imagej macro to calculate the modulation transfer function (MTF) based on a knife edge (or slanted edge) measurement.
 - [Empanada](https://github.com/volume-em/empanada) - Panoptic segmentation algorithms for 2D and 3D electron microscopy images.
 - [Em-scalebartools](https://github.com/lukmuk/em-scalebartools) - Fiji/ImageJ macros to quickly add a scale bar to an (electron microscopy) image.
+- [MSSR](https://github.com/MSSRSupport/MSSR) - MSSR for single image super-resolution.
 - [Picasso](https://github.com/jungmannlab/picasso) - A collection of tools for painting super-resolution images.
 - [SASS](https://github.com/LEB-EPFL/SASS) - Toolkit for simulating real-time control systems for super-resolution microscopy.
 - [SMAP](https://github.com/jries/SMAP) - A modular super-resolution microscopy analysis platform for SMLM data.
