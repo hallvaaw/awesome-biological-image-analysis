@@ -18,6 +18,7 @@ List of softwares, tools, pipelines, plugins etc. for image analysis related to 
 - [Yeast imaging](#yeast-imaging)
 - [Other](#other)
 - [Publications](#publications)
+- [Similar lists and repositories](#similar-lists-and-repositories)
 
 ## General image analysis software
 - [3D Slicer](https://github.com/Slicer/Slicer) - 3D Slicer is a free, open source and multi-platform software package widely used     for medical, biomedical, and related imaging research.
@@ -219,3 +220,9 @@ budding cells from bright-field stacks.
 - [Data-analysis strategies for image-based cell profiling.](https://doi.org/10.1038/nmeth.4397)
 - [Large-scale image-based screening and profiling of cellular phenotypes.](https://onlinelibrary.wiley.com/doi/10.1002/cyto.a.22909)
 - [Workflow and metrics for image quality control in large-scale high-content screens.](https://linkinghub.elsevier.com/retrieve/pii/S2472555222075943)
+
+## Similar lists and repositories
+
+- [BIII](https://biii.eu) - Repository of bioimage analysis tools.
+- [Napari hub](https://www.napari-hub.org) - Collection of napari plugins.
+- [OpenMicroscopy](https://github.com/HohlbeinLab/OpenMicroscopy) - Non-comprehensive list of projects and resources related to open microscopy.
