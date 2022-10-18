@@ -94,6 +94,8 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 - [RivuletPy](https://github.com/RivuletStudio/rivuletpy) - Robust 3D Neuron Tracing / General 3D tree structure extraction in Python for 3D images powered by the Rivulet2 algorithm.
 - [SliceMap](https://github.com/mbarbie1/SliceMap) - SliceMap: An Algorithm for Automated Brain Region Annotation, implemented as FIJI(ImageJ) plugin.
 - [SNT](https://github.com/morphonets/SNT/) - The ImageJ framework for semi-automated tracing and analysis of neurons.
+- [TrailMap](https://github.com/AlbertPun/TRAILMAP/) - TRAILMAP is a software package to extract axonal data from cleared brains.
+- [Wholebrain](https://github.com/tractatus/wholebrain) - Automated cell detection and registration of whole-brain images with plot of cell counts per region and Hemishpere.
 - [ZVQ - Zebrafish Vascular Quantification](https://github.com/ElisabethKugler/ZFVascularQuantification) - Image analysis pipeline to perform 3D quantification of the total or regional zebrafish brain vasculature using the image analysis software Fiji.
 
 
