@@ -168,6 +168,7 @@ absence of a ground truth.
 - [PathML](https://github.com/Dana-Farber-AIOS/pathml) - An open-source toolkit for computational pathology and machine learning.
 - [PAQUO](https://github.com/bayer-science-for-a-better-life/paquo) - A library for interacting with QuPath from Python.
 - [QuPath](https://qupath.github.io/) - Open source software for digital pathology image analysis.
+- [FastPathology](https://github.com/AICAN-Research/FAST-Pathology) - Open-source software for deep learning-based digital pathology.
 
 ## Mycology
 - [DeepMushroom](https://github.com/Olament/DeepMushroom) - DeepMushroom Image classification of Fungus using ResNet.
