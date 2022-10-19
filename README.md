@@ -57,6 +57,7 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 - [Cellpose](https://github.com/MouseLand/cellpose) - A generalist algorithm for cell and nucleus segmentation.
 - [CLIJ2](https://clij.github.io/) - CLIJ2 is a GPU-accelerated image processing library for ImageJ/Fiji, Icy, Matlab and Java.
 - [Deep Lipid](https://github.com/sheneman/deep_lipid) - Machine learning for semantic segmentation of lipid droplets within quantitative phase images (QPI) of yeast cells.
+- [DeepCell](https://github.com/vanvalenlab/deepcell-tf) - Deep Learning Library for Single Cell Analysis.
 - [DeepSlide](https://github.com/BMIRDS/deepslide) - A Sliding Window Framework for Classification of High Resolution Microscopy Images.
 - [EBImage](https://github.com/aoles/EBImage) - Image processing toolbox for R.
 - [ERNet](https://github.com/charlesnchr/ERNet) - ERNet: Segmentation of Endoplasmic Reticulum microscopy images using modified CNN-based image restoration models.
@@ -162,13 +163,13 @@ absence of a ground truth.
 - [Usiigaci](https://github.com/oist/usiigaci) - Usiigaci: stain-free cell tracking in phase contrast microscopy enabled by supervised machine learning.
 
 ## Pathology
+- [FastPathology](https://github.com/AICAN-Research/FAST-Pathology) - Open-source software for deep learning-based digital pathology.
 - [HistoClean](https://github.com/HistoCleanQUB/HistoClean) - HistoClean is a tool for the preprocessing and augmentation of images used in deep learning models.
 - [Minerva](https://github.com/labsyspharm/minerva-story) - Minerva Story is an image viewer that is designed specifically to make it easy for non-expert users to interact with complex tissue images.
 - [Orbit](http://www.orbit.bio) - A versatile image analysis software for biological image-based quantification using machine learning, especially for whole slide imaging.
 - [PathML](https://github.com/Dana-Farber-AIOS/pathml) - An open-source toolkit for computational pathology and machine learning.
 - [PAQUO](https://github.com/bayer-science-for-a-better-life/paquo) - A library for interacting with QuPath from Python.
 - [QuPath](https://qupath.github.io/) - Open source software for digital pathology image analysis.
-- [FastPathology](https://github.com/AICAN-Research/FAST-Pathology) - Open-source software for deep learning-based digital pathology.
 
 ## Mycology
 - [DeepMushroom](https://github.com/Olament/DeepMushroom) - DeepMushroom Image classification of Fungus using ResNet.
