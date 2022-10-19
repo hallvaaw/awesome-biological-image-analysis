@@ -7,7 +7,7 @@
  <br>
 </p>
 
-List of software, tools, pipelines, plugins etc. for image analysis related to biological questions. [Contributions are welcome.](https://github.com/hallvaaw/awesome-biological-image-analysis/blob/master/CONTRIBUTING.md)
+List of software, tools, pipelines, plugins etc. for image analysis related to biological questions. [Contributions are welcome.](https://github.com/hallvaaw/awesome-biological-image-analysis/blob/main/CONTRIBUTING.md)
 
 ## Contents
 - [General image analysis software](#general-image-analysis-software)
