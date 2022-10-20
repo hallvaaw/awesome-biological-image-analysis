@@ -84,6 +84,7 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 - [BG-atlasAPI](https://github.com/brainglobe/bg-atlasapi) - A lightweight python module to interact with atlases for systems neuroscience.
 - [Brainreg](https://github.com/brainglobe/brainreg) - Automated 3D brain registration with support for multiple species and atlases.
 - [Brainreg-napari](https://github.com/brainglobe/brainreg-napari) - Automated 3D brain registration in napari with support for multiple species and atlases.
+- [Brainrender](https://github.com/brainglobe/brainrender) - brainrender is a python package for the visualization of three dimensional neuro-anatomical data.
 - [Cellfinder](https://github.com/brainglobe/cellfinder) - Automated 3D cell detection and registration of whole-brain images.
 - [Cellfinder-napari](https://github.com/brainglobe/cellfinder-napari) - Efficient cell detection in large images using [cellfinder](https://brainglobe.info/cellfinder) in napari.
 - [CloudVolume](https://github.com/seung-lab/cloud-volume) - Read and write Neuroglancer datasets programmatically.
