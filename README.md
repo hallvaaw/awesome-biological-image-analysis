@@ -69,6 +69,7 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 - [PyImSegm](https://github.com/Borda/pyImSegm) - Image segmentation - general superpixel segmentation & center detection & region growing.
 - [Sequitr](https://github.com/quantumjot/sequitr) - Microscopy image processing with TensorFlow.
 - [StarDist](https://github.com/stardist/stardist) - Object Detection with Star-convex Shapes.
+- [Suite2p](https://github.com/MouseLand/suite2p) - Pipeline for processing two-photon calcium imaging data.
 - [SyMBac](https://github.com/georgeoshardo/SyMBac) - Accurate segmentation of bacterial microscope images using synthetically generated image data.
 - [TensorFlow-MIL](https://github.com/dancsalo/TensorFlow-MIL) - TF Implementation of Multiple Instance Learning FCN.
 - [Trainable Weka Segmentation](https://github.com/fiji/Trainable_Segmentation) - The Trainable Weka Segmentation is a Fiji plugin and library that combines a collection of machine learning algorithms with a set of selected image features to produce pixel-based segmentations.
