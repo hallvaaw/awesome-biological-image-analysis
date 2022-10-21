@@ -72,6 +72,7 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 - [SyMBac](https://github.com/georgeoshardo/SyMBac) - Accurate segmentation of bacterial microscope images using synthetically generated image data.
 - [TensorFlow-MIL](https://github.com/dancsalo/TensorFlow-MIL) - TF Implementation of Multiple Instance Learning FCN.
 - [Trainable Weka Segmentation](https://github.com/fiji/Trainable_Segmentation) - The Trainable Weka Segmentation is a Fiji plugin and library that combines a collection of machine learning algorithms with a set of selected image features to produce pixel-based segmentations.
+- [u-shape3D](https://github.com/DanuserLab/u-shape3D) - Designed to detect morphological motifs, such as blebs, filopodia, and lamellipodia, from 3D images of surfaces, particularly images of cell surfaces.
 
 ## Ecology
 - [PAT-GEOM](http://ianzwchan.com/my-research/pat-geom/) - PAT-GEOM: a software package for the analysis of animal colour pattern.
