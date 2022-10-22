@@ -69,9 +69,12 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 - [PyImSegm](https://github.com/Borda/pyImSegm) - Image segmentation - general superpixel segmentation & center detection & region growing.
 - [Sequitr](https://github.com/quantumjot/sequitr) - Microscopy image processing with TensorFlow.
 - [StarDist](https://github.com/stardist/stardist) - Object Detection with Star-convex Shapes.
+- [Suite2p](https://github.com/MouseLand/suite2p) - Pipeline for processing two-photon calcium imaging data.
 - [SyMBac](https://github.com/georgeoshardo/SyMBac) - Accurate segmentation of bacterial microscope images using synthetically generated image data.
 - [TensorFlow-MIL](https://github.com/dancsalo/TensorFlow-MIL) - TF Implementation of Multiple Instance Learning FCN.
 - [Trainable Weka Segmentation](https://github.com/fiji/Trainable_Segmentation) - The Trainable Weka Segmentation is a Fiji plugin and library that combines a collection of machine learning algorithms with a set of selected image features to produce pixel-based segmentations.
+- [u-shape3D](https://github.com/DanuserLab/u-shape3D) - Designed to detect morphological motifs, such as blebs, filopodia, and lamellipodia, from 3D images of surfaces, particularly images of cell surfaces.
+- [VAMPIRE](https://github.com/tengjuilin/vampire-analysis) - VAMPIRE (Visually Aided Morpho-Phenotyping Image Recognition) analysis quantifies and visualizes heterogeneity of cell and nucleus morphology.
 
 ## Ecology
 - [PAT-GEOM](http://ianzwchan.com/my-research/pat-geom/) - PAT-GEOM: a software package for the analysis of animal colour pattern.
@@ -84,6 +87,7 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 - [BG-atlasAPI](https://github.com/brainglobe/bg-atlasapi) - A lightweight python module to interact with atlases for systems neuroscience.
 - [Brainreg](https://github.com/brainglobe/brainreg) - Automated 3D brain registration with support for multiple species and atlases.
 - [Brainreg-napari](https://github.com/brainglobe/brainreg-napari) - Automated 3D brain registration in napari with support for multiple species and atlases.
+- [Brainrender](https://github.com/brainglobe/brainrender) - brainrender is a python package for the visualization of three dimensional neuro-anatomical data.
 - [Cellfinder](https://github.com/brainglobe/cellfinder) - Automated 3D cell detection and registration of whole-brain images.
 - [Cellfinder-napari](https://github.com/brainglobe/cellfinder-napari) - Efficient cell detection in large images using [cellfinder](https://brainglobe.info/cellfinder) in napari.
 - [CloudVolume](https://github.com/seung-lab/cloud-volume) - Read and write Neuroglancer datasets programmatically.
