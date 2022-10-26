@@ -134,7 +134,6 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 - [FISHcount](https://github.com/JIC-CSB/FISHcount) - Software for counting single RNA molecules using analysis of FISH data.
 - [RS-FISH](https://github.com/PreibischLab/RS-FISH) - RS-FISH is a Fiji plugin to detect FISH spots in 2D/3D images which scales to very large images.
 - [ThunderFish](https://github.com/aleks-szczure/ThunderFISH) - ThunderFISH is a pre-processing tool that extracts 2D single-cell RNA-FISH images from your 3D microscopy images of large field of view.
- 
 
 
 ## Electron and super resolution microscopy
