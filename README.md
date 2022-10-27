@@ -160,6 +160,7 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 - [CellMigration](https://github.com/quantixed/CellMigration) - Analysis of 2D cell migration in Igor.
 - [DECODE](https://github.com/TuragaLab/DECODE) - DECODE is a Python and Pytorch based deep learning tool for single molecule localization microscopy.
 - [TrackMate](https://github.com/fiji/TrackMate) - TrackMate has a user-friendly interface that allows for performing tracking, data visualization, editing results and track analysis in a convenient way.
+- [TrackMateR](https://github.com/quantixed/TrackMateR) - An R package to analyze cell migration and particle tracking experiments using outputs from TrackMate.
 - [TracX](https://gitlab.com/csb.ethz/tracx) - TracX is a MATLAB generic toolbox for cell tracking from various microscopy image modalities such as Bright-field (BF), phase contrast (PhC) or fluorescence (FL) with an automated track quality assessment in
 absence of a ground truth.
 - [TraJClassifier](https://imagej.net/plugins/trajclassifier) - This Fiji plugin loads trajectories from TrackMate, characterize them using TraJ and classifiy them into normal diffusion, subdiffusion, confined diffusion and directed/active motion by a random forest approach (through Renjin).
