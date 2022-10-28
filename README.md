@@ -73,7 +73,7 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 - [SyMBac](https://github.com/georgeoshardo/SyMBac) - Accurate segmentation of bacterial microscope images using synthetically generated image data.
 - [TensorFlow-MIL](https://github.com/dancsalo/TensorFlow-MIL) - TF Implementation of Multiple Instance Learning FCN.
 - [Trainable Weka Segmentation](https://github.com/fiji/Trainable_Segmentation) - The Trainable Weka Segmentation is a Fiji plugin and library that combines a collection of machine learning algorithms with a set of selected image features to produce pixel-based segmentations.
-- [u-shape3D](https://github.com/DanuserLab/u-shape3D) - Designed to detect morphological motifs, such as blebs, filopodia, and lamellipodia, from 3D images of surfaces, particularly images of cell surfaces.
+- [U-shape3D](https://github.com/DanuserLab/u-shape3D) - Designed to detect morphological motifs, such as blebs, filopodia, and lamellipodia, from 3D images of surfaces, particularly images of cell surfaces.
 - [VAMPIRE](https://github.com/tengjuilin/vampire-analysis) - VAMPIRE (Visually Aided Morpho-Phenotyping Image Recognition) analysis quantifies and visualizes heterogeneity of cell and nucleus morphology.
 
 ## Ecology
@@ -108,7 +108,7 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 ## Plant science
 
 - [Aradeepopsis](https://github.com/Gregor-Mendel-Institute/aradeepopsis) - A versatile, fully open-source pipeline to extract phenotypic measurements from plant images.
-- [ArchiDART](https://archidart.github.io) - archiDART is an R package that was developed for the automated analysis of plant root system architectures using Data Analysis of Root Tracings (DART) and Root System Markup Language (RSML) files.
+- [ArchiDART](https://archidart.github.io) - ArchiDART is an R package that was developed for the automated analysis of plant root system architectures using Data Analysis of Root Tracings (DART) and Root System Markup Language (RSML) files.
 - [Black Spot](https://www.ncbs.res.in/blackspot) - Black Spot is a free stand alone software and method to estimate leaf area from images of leaves captured using any standard flatbed scanner.
 - [DIRT](https://github.com/Computational-Plant-Science/DIRT) - Digital Imaging of Root Traits: Extract trait measurements from images of monocot and dicot roots.
 - [EasyPCC_V2](https://github.com/oceam/EasyPCC_V2) - Easy Plant Phenotyping Tool for both indoor and outdoor use.
@@ -138,6 +138,7 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 
 ## Electron and super resolution microscopy
 - [ASI_MTF](https://github.com/emx77/ASI_MTF) - Imagej macro to calculate the modulation transfer function (MTF) based on a knife edge (or slanted edge) measurement.
+- [DECODE](https://github.com/TuragaLab/DECODE) - DECODE is a Python and Pytorch based deep learning tool for single molecule localization microscopy.
 - [Empanada](https://github.com/volume-em/empanada) - Panoptic segmentation algorithms for 2D and 3D electron microscopy images.
 - [Em-scalebartools](https://github.com/lukmuk/em-scalebartools) - Fiji/ImageJ macros to quickly add a scale bar to an (electron microscopy) image.
 - [MSSR](https://github.com/MSSRSupport/MSSR) - MSSR for single image super-resolution.
@@ -159,7 +160,6 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 
 ## Cell migration and particle tracking
 - [CellMigration](https://github.com/quantixed/CellMigration) - Analysis of 2D cell migration in Igor.
-- [DECODE](https://github.com/TuragaLab/DECODE) - DECODE is a Python and Pytorch based deep learning tool for single molecule localization microscopy.
 - [TrackMate](https://github.com/fiji/TrackMate) - TrackMate has a user-friendly interface that allows for performing tracking, data visualization, editing results and track analysis in a convenient way.
 - [TrackMateR](https://github.com/quantixed/TrackMateR) - An R package to analyze cell migration and particle tracking experiments using outputs from TrackMate.
 - [TracX](https://gitlab.com/csb.ethz/tracx) - TracX is a MATLAB generic toolbox for cell tracking from various microscopy image modalities such as Bright-field (BF), phase contrast (PhC) or fluorescence (FL) with an automated track quality assessment in
