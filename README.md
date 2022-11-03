@@ -68,6 +68,7 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 - [PartSeg](https://github.com/4DNucleome/PartSeg) - PartSeg is a GUI and a library for segmentation algorithms.
 - [PyImSegm](https://github.com/Borda/pyImSegm) - Image segmentation - general superpixel segmentation & center detection & region growing.
 - [Sequitr](https://github.com/quantumjot/sequitr) - Microscopy image processing with TensorFlow.
+- [Squidpy](https://github.com/scverse/squidpy) - Squidpy, a Python framework that brings together tools from omics and image analysis to enable scalable description of spatial molecular data, such as transcriptome or multivariate proteins.
 - [StarDist](https://github.com/stardist/stardist) - Object Detection with Star-convex Shapes.
 - [Suite2p](https://github.com/MouseLand/suite2p) - Pipeline for processing two-photon calcium imaging data.
 - [SyMBac](https://github.com/georgeoshardo/SyMBac) - Accurate segmentation of bacterial microscope images using synthetically generated image data.
@@ -92,6 +93,7 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 - [Cellfinder-napari](https://github.com/brainglobe/cellfinder-napari) - Efficient cell detection in large images using [cellfinder](https://brainglobe.info/cellfinder) in napari.
 - [CloudVolume](https://github.com/seung-lab/cloud-volume) - Read and write Neuroglancer datasets programmatically.
 - [ExplantAnalyzer](https://github.com/DominikSchmidbauer/ExplantAnlayzer) - ExplantAnalyzer: An advanced automated neurite outgrowth analysis evaluated by means of organotypic auditory neuron explant cultures.
+- [L-Measure](http://cng.gmu.edu:8080/Lm/) - a web-accessible tool for the analysis, comparison and search of digital reconstructions of neuronal morphologies
 - [NeuroAnatomy Toolbox](https://github.com/natverse/nat) - NeuroAnatomy Toolbox: An R package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
 - [Neuroglancer](https://github.com/google/neuroglancer/) - Neuroglancer is a WebGL-based viewer for volumetric data.
 - [NeuronJ](https://github.com/ImageScience/NeuronJ) - NeuronJ: An ImageJ Plugin for Neurite Tracing and Analysis.
