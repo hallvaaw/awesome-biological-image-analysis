@@ -92,6 +92,7 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 - [Cellfinder-napari](https://github.com/brainglobe/cellfinder-napari) - Efficient cell detection in large images using [cellfinder](https://brainglobe.info/cellfinder) in napari.
 - [CloudVolume](https://github.com/seung-lab/cloud-volume) - Read and write Neuroglancer datasets programmatically.
 - [ExplantAnalyzer](https://github.com/DominikSchmidbauer/ExplantAnlayzer) - ExplantAnalyzer: An advanced automated neurite outgrowth analysis evaluated by means of organotypic auditory neuron explant cultures.
+- [L-Measure](http://cng.gmu.edu:8080/Lm/) - a web-accessible tool for the analysis, comparison and search of digital reconstructions of neuronal morphologies
 - [NeuroAnatomy Toolbox](https://github.com/natverse/nat) - NeuroAnatomy Toolbox: An R package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
 - [Neuroglancer](https://github.com/google/neuroglancer/) - Neuroglancer is a WebGL-based viewer for volumetric data.
 - [NeuronJ](https://github.com/ImageScience/NeuronJ) - NeuronJ: An ImageJ Plugin for Neurite Tracing and Analysis.
