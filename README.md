@@ -68,6 +68,7 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 - [PartSeg](https://github.com/4DNucleome/PartSeg) - PartSeg is a GUI and a library for segmentation algorithms.
 - [PyImSegm](https://github.com/Borda/pyImSegm) - Image segmentation - general superpixel segmentation & center detection & region growing.
 - [Sequitr](https://github.com/quantumjot/sequitr) - Microscopy image processing with TensorFlow.
+- [Squidpy](https://github.com/scverse/squidpy) - Squidpy, a Python framework that brings together tools from omics and image analysis to enable scalable description of spatial molecular data, such as transcriptome or multivariate proteins.
 - [StarDist](https://github.com/stardist/stardist) - Object Detection with Star-convex Shapes.
 - [Suite2p](https://github.com/MouseLand/suite2p) - Pipeline for processing two-photon calcium imaging data.
 - [SyMBac](https://github.com/georgeoshardo/SyMBac) - Accurate segmentation of bacterial microscope images using synthetically generated image data.
