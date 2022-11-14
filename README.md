@@ -55,6 +55,7 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 - [AtomAI](https://github.com/pycroscopy/atomai) - AtomAI is a Pytorch-based package for deep/machine learning analysis of microscopy data.
 - [CakeCell](https://github.com/NCBI-Hackathons/CakeCell) - Segmenting cells (and other objects!) in microscopy images via neural networks.
 - [Cellpose](https://github.com/MouseLand/cellpose) - A generalist algorithm for cell and nucleus segmentation.
+- [CellSighter](https://github.com/KerenLab/CellSighter) - CellSighter is an ensemble of convolutional neural networks to perform supervised cell classification in multiplexed images
 - [CLIJ2](https://clij.github.io/) - CLIJ2 is a GPU-accelerated image processing library for ImageJ/Fiji, Icy, Matlab and Java.
 - [Deep Lipid](https://github.com/sheneman/deep_lipid) - Machine learning for semantic segmentation of lipid droplets within quantitative phase images (QPI) of yeast cells.
 - [DeepCell](https://github.com/vanvalenlab/deepcell-tf) - Deep Learning Library for Single Cell Analysis.
