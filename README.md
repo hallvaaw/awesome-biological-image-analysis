@@ -55,7 +55,7 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 - [AtomAI](https://github.com/pycroscopy/atomai) - AtomAI is a Pytorch-based package for deep/machine learning analysis of microscopy data.
 - [CakeCell](https://github.com/NCBI-Hackathons/CakeCell) - Segmenting cells (and other objects!) in microscopy images via neural networks.
 - [Cellpose](https://github.com/MouseLand/cellpose) - A generalist algorithm for cell and nucleus segmentation.
-- [CellSighter](https://github.com/KerenLab/CellSighter) - CellSighter is an ensemble of convolutional neural networks to perform supervised cell classification in multiplexed images
+- [CellSighter](https://github.com/KerenLab/CellSighter) - CellSighter is an ensemble of convolutional neural networks to perform supervised cell classification in multiplexed images.
 - [CLIJ2](https://clij.github.io/) - CLIJ2 is a GPU-accelerated image processing library for ImageJ/Fiji, Icy, Matlab and Java.
 - [Deep Lipid](https://github.com/sheneman/deep_lipid) - Machine learning for semantic segmentation of lipid droplets within quantitative phase images (QPI) of yeast cells.
 - [DeepCell](https://github.com/vanvalenlab/deepcell-tf) - Deep Learning Library for Single Cell Analysis.
@@ -84,7 +84,7 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 
 
 ## Neuroscience
-- [Automated Neuronal Differentiation Analyzer](https://github.com/EskelandLab/ANDA) - Automated Neuronal Differentation Analyzer: An open-source tool for high-throughput image analysis of neuronal differentiation.
+- [Automated Neuronal Differentiation Analyzer](https://github.com/EskelandLab/ANDA) - Automated Neuronal Differentiation Analyzer: An open-source tool for high-throughput image analysis of neuronal differentiation.
 - [AxonDeepSeg](https://github.com/axondeepseg/axondeepseg) - Segment axon and myelin from microscopy data using deep learning.
 - [BG-atlasAPI](https://github.com/brainglobe/bg-atlasapi) - A lightweight python module to interact with atlases for systems neuroscience.
 - [Brainreg](https://github.com/brainglobe/brainreg) - Automated 3D brain registration with support for multiple species and atlases.
@@ -94,7 +94,7 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 - [Cellfinder-napari](https://github.com/brainglobe/cellfinder-napari) - Efficient cell detection in large images using [cellfinder](https://brainglobe.info/cellfinder) in napari.
 - [CloudVolume](https://github.com/seung-lab/cloud-volume) - Read and write Neuroglancer datasets programmatically.
 - [ExplantAnalyzer](https://github.com/DominikSchmidbauer/ExplantAnlayzer) - ExplantAnalyzer: An advanced automated neurite outgrowth analysis evaluated by means of organotypic auditory neuron explant cultures.
-- [L-Measure](http://cng.gmu.edu:8080/Lm/) - a web-accessible tool for the analysis, comparison and search of digital reconstructions of neuronal morphologies
+- [L-Measure](http://cng.gmu.edu:8080/Lm/) - a web-accessible tool for the analysis, comparison and search of digital reconstructions of neuronal morphologies.
 - [NeuroAnatomy Toolbox](https://github.com/natverse/nat) - NeuroAnatomy Toolbox: An R package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
 - [Neuroglancer](https://github.com/google/neuroglancer/) - Neuroglancer is a WebGL-based viewer for volumetric data.
 - [NeuronJ](https://github.com/ImageScience/NeuronJ) - NeuronJ: An ImageJ Plugin for Neurite Tracing and Analysis.
