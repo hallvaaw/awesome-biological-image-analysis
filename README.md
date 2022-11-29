@@ -52,9 +52,11 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 
 
 ## Image processing and segmentation
+- [Ark-Analysis](https://github.com/angelolab/ark-analysis) - A pipeline toolbox for analyzing multiplexed imaging data.
 - [AtomAI](https://github.com/pycroscopy/atomai) - AtomAI is a Pytorch-based package for deep/machine learning analysis of microscopy data.
 - [CakeCell](https://github.com/NCBI-Hackathons/CakeCell) - Segmenting cells (and other objects!) in microscopy images via neural networks.
 - [Cellpose](https://github.com/MouseLand/cellpose) - A generalist algorithm for cell and nucleus segmentation.
+- [Cellshape](https://github.com/Sentinal4D/cellshape) - 3D single-cell shape analysis of cancer cells using geometric deep learning.
 - [CellSighter](https://github.com/KerenLab/CellSighter) - CellSighter is an ensemble of convolutional neural networks to perform supervised cell classification in multiplexed images.
 - [CLIJ2](https://clij.github.io/) - CLIJ2 is a GPU-accelerated image processing library for ImageJ/Fiji, Icy, Matlab and Java.
 - [Deep Lipid](https://github.com/sheneman/deep_lipid) - Machine learning for semantic segmentation of lipid droplets within quantitative phase images (QPI) of yeast cells.
@@ -98,6 +100,7 @@ List of software, tools, pipelines, plugins etc. for image analysis related to b
 - [NeuroAnatomy Toolbox](https://github.com/natverse/nat) - NeuroAnatomy Toolbox: An R package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
 - [Neuroglancer](https://github.com/google/neuroglancer/) - Neuroglancer is a WebGL-based viewer for volumetric data.
 - [NeuronJ](https://github.com/ImageScience/NeuronJ) - NeuronJ: An ImageJ Plugin for Neurite Tracing and Analysis.
+- [Panda](https://www.nitrc.org/projects/panda/) - PANDA (Pipeline for Analyzing braiN Diffusion imAges) is a matlab toolbox for pipeline processing of diffusion MRI images.
 - [PyTorch Connectomics](https://github.com/zudi-lin/pytorch_connectomics) - PyTorch Connectomics is a deep learning framework for automatic and semi-automatic annotation of connectomics datasets, powered by PyTorch.
 - [RivuletPy](https://github.com/RivuletStudio/rivuletpy) - Robust 3D Neuron Tracing / General 3D tree structure extraction in Python for 3D images powered by the Rivulet2 algorithm.
 - [SliceMap](https://github.com/mbarbie1/SliceMap) - SliceMap: An Algorithm for Automated Brain Region Annotation, implemented as FIJI(ImageJ) plugin.
