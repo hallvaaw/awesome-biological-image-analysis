@@ -7,7 +7,9 @@
  <br>
 </p>
 
-List of software, tools, pipelines, plugins etc. for image analysis related to biological questions. [Contributions are welcome.](https://github.com/hallvaaw/awesome-biological-image-analysis/blob/main/CONTRIBUTING.md)
+> Tools and resources for biological image analysis.
+
+Biological image analysis aims to increase our understanding of biology through the use of various computational techniques and approaches to obtain valuable information from images.
 
 ## Contents
 - [General image analysis software](#general-image-analysis-software)
