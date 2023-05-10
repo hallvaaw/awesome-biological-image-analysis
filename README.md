@@ -54,7 +54,6 @@ Biological image analysis aims to increase our understanding of biology through 
 - [Cellpose](https://github.com/MouseLand/cellpose) - A generalist algorithm for cell and nucleus segmentation.
 - [Cellshape](https://github.com/Sentinal4D/cellshape) - 3D single-cell shape analysis of cancer cells using geometric deep learning.
 - [CLIJ2](https://clij.github.io/) - GPU-accelerated image processing library for ImageJ/Fiji, Icy, MATLAB and Java.
-- [Deep Lipid](https://github.com/sheneman/deep_lipid) - Machine learning for semantic segmentation of lipid droplets within quantitative phase images (QPI) of yeast cells.
 - [DeepCell](https://github.com/vanvalenlab/deepcell-tf) - Deep learning library for single cell analysis.
 - [DeepSlide](https://github.com/BMIRDS/deepslide) - A sliding window framework for classification of high resolution microscopy images.
 - [EBImage](https://github.com/aoles/EBImage) - Image processing toolbox for R.
@@ -84,7 +83,7 @@ Biological image analysis aims to increase our understanding of biology through 
 - [CloudVolume](https://github.com/seung-lab/cloud-volume) - Read and write Neuroglancer datasets programmatically.
 - [NeuroAnatomy Toolbox](https://github.com/natverse/nat) - R package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
 - [Neuroglancer](https://github.com/google/neuroglancer/) - WebGL-based viewer for volumetric data.
-- [NeuronJ](https://github.com/ImageScience/NeuronJ) - An ImageJ plugin for neurite tracing and analysis.
+- [NeuronJ](https://imagescience.org/meijering/software/neuronj/) - An ImageJ plugin for neurite tracing and analysis.
 - [Panda](https://www.nitrc.org/projects/panda/) - Pipeline for Analyzing braiN Diffusion imAges: A MATLAB toolbox for pipeline processing of diffusion MRI images.
 - [PyTorch Connectomics](https://github.com/zudi-lin/pytorch_connectomics) - Deep learning framework for automatic and semi-automatic annotation of connectomics datasets, powered by PyTorch.
 - [RivuletPy](https://github.com/RivuletStudio/rivuletpy) - Robust 3D Neuron Tracing / General 3D tree structure extraction in Python for 3D images powered by the Rivulet2 algorithm.
@@ -98,7 +97,6 @@ Biological image analysis aims to increase our understanding of biology through 
 ## Plant science
 
 - [Aradeepopsis](https://github.com/Gregor-Mendel-Institute/aradeepopsis) - A versatile, fully open-source pipeline to extract phenotypic measurements from plant images.
-- [ArchiDART](https://archidart.github.io) - R package developed for the automated analysis of plant root system architectures using Data Analysis of Root Tracings (DART) and Root System Markup Language (RSML) files.
 - [DIRT](https://github.com/Computational-Plant-Science/DIRT) - Digital Imaging of Root Traits: Extract trait measurements from images of monocot and dicot roots.
 - [LeafByte](https://zoegp.science/leafbyte) - Free and open source mobile app for measuring herbivory quickly and accurately.
 - [PaCeQuant](https://mitobo.informatik.uni-halle.de/index.php/Applications/PaCeQuant) - An ImageJ-based tool which provides a fully automatic image analysis workflow for PC shape quantification.
@@ -122,7 +120,6 @@ Biological image analysis aims to increase our understanding of biology through 
 - [DECODE](https://github.com/TuragaLab/DECODE) - Python and PyTorch based deep learning tool for single molecule localization microscopy.
 - [Empanada](https://github.com/volume-em/empanada) - Panoptic segmentation algorithms for 2D and 3D electron microscopy images.
 - [Em-scalebartools](https://github.com/lukmuk/em-scalebartools) - Fiji/ImageJ macros to quickly add a scale bar to an (electron microscopy) image.
-- [MSSR](https://github.com/MSSRSupport/MSSR) - MSSR for single image super-resolution.
 - [Picasso](https://github.com/jungmannlab/picasso) - A collection of tools for painting super-resolution images.
 - [SMAP](https://github.com/jries/SMAP) - A modular super-resolution microscopy analysis platform for SMLM data.
 - [ThunderSTORM](https://github.com/zitmen/thunderstorm) - A comprehensive ImageJ plugin for SMLM data analysis and super-resolution imaging.
@@ -133,7 +130,6 @@ Biological image analysis aims to increase our understanding of biology through 
 - [Ijp-color](https://github.com/ij-plugins/ijp-color) - Plugins for ImageJ - color space conversions and color calibration.
 - [Image Quality](https://github.com/ocampor/image-quality) - Open source software library for Image Quality Assessment (IQA).
 - [LLSpy](https://github.com/tlambert03/LLSpy) - Python library to facilitate lattice light sheet data processing.
-- [NanoJ-SQUIRREL](https://github.com/superresolusian/NanoJ-SQUIRREL) - An ImageJ-based analytical approach that provides quantitative assessment of super-resolution image quality.
 - [NCS](https://github.com/HuanglabPurdue/NCS) - Noise correction algorithm for sCMOS cameras.
 - [Noise2Void](https://github.com/juglab/n2v) - Learning denoising from single noisy images.
 
@@ -162,7 +158,7 @@ absence of a ground truth.
 - [Fungal Feature Tracker (FFT)](https://github.com/hsueh-lab/FFT) - Tool to quantitatively characterize morphology and growth of filamentous fungi.
 
 ## Microbiology
-- [BactMap](https://github.com/veeninglab/bactmap) - A command-line based R package that allows researchers to transform cell segmentation and spot detection data generated by different programs into various plots.
+- [BactMap](https://github.com/vrrenske/BactMAP) - A command-line based R package that allows researchers to transform cell segmentation and spot detection data generated by different programs into various plots.
 - [BacStalk](https://drescherlab.org/data/bacstalk/docs/index.html) - Interactive and user-friendly image analysis software tool to investigate the cell biology of common used bacterial species.
 - [BiofilmQ](https://drescherlab.org/data/biofilmQ/docs/) - Advanced biofilm analysis tool for quantifying the properties of cells inside large 3-dimensional biofilm communities in space and time.
 
