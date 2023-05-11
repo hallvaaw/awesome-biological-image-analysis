@@ -193,7 +193,7 @@ budding cells from bright-field stacks.
 - [SimpleElastix](https://github.com/SuperElastix/SimpleElastix) - Multi-lingual medical image registration library.
 - [Vaa3D](https://alleninstitute.org/what-we-do/brain-science/research/products-tools/vaa3d/) - Open-source software for 3D/4D/5D image visualization and analysis.
 - [XitoSBML](https://github.com/spatialsimulator/XitoSBML) - ImageJ plugin which creates a Spatial SBML model from segmented images.
-- [Z-stack Depth Color Code](https://github.com/ekatrukha/ZstackDepthColorCode) - ImageJ/FIJI plugin to colorcode Z-stacks/hyperstacks.
+- [Z-stack Depth Color Code](https://github.com/ekatrukha/ZstackDepthColorCode) - ImageJ/Fiji plugin to colorcode Z-stacks/hyperstacks.
 - [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) - Google Colab to develop a free and open-source toolbox for deep-Learning in microscopy.
 - [ZetaStitcher](https://github.com/lens-biophotonics/ZetaStitcher) - Tool designed to stitch large volumetric images such as those produced by light-sheet fluorescence microscopes.
 
