@@ -210,5 +210,6 @@ budding cells from bright-field stacks.
 ### Similar lists and repositories
 
 - [BIII](https://biii.eu) - Repository of bioimage analysis tools.
+- [Bioimaging Guide](https://www.bioimagingguide.org) - Microscopy for beginners reference guide.
 - [Napari hub](https://www.napari-hub.org) - Collection of napari plugins.
 - [OpenMicroscopy](https://github.com/HohlbeinLab/OpenMicroscopy) - Non-comprehensive list of projects and resources related to open microscopy.
