@@ -200,11 +200,11 @@ budding cells from bright-field stacks.
 
 ## Publications
 
-- [A Hitchhiker's guide through the bio-image analysis software universe.](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451)
-- [Biological imaging software tools.](https://dx.doi.org/10.1038%2Fnmeth.2084)
-- [Data-analysis strategies for image-based cell profiling.](https://doi.org/10.1038/nmeth.4397)
-- [Large-scale image-based screening and profiling of cellular phenotypes.](https://onlinelibrary.wiley.com/doi/10.1002/cyto.a.22909)
-- [Workflow and metrics for image quality control in large-scale high-content screens.](https://linkinghub.elsevier.com/retrieve/pii/S2472555222075943)
+- [A Hitchhiker's guide through the bio-image analysis software universe](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14451) - An article presenting a curated guide and glossary of bio-image analysis terms and tools.
+- [Biological imaging software tools](https://dx.doi.org/10.1038%2Fnmeth.2084) - The steps of biological image analysis and the appropriate tools for each step.
+- [Data-analysis strategies for image-based cell profiling](https://doi.org/10.1038/nmeth.4397) - In-detail explanations of image analysis pipelines.
+- [Large-scale image-based screening and profiling of cellular phenotypes](https://onlinelibrary.wiley.com/doi/10.1002/cyto.a.22909) - A workflow for phenotype extraction from high throughput imaging experiments.
+- [Workflow and metrics for image quality control in large-scale high-content screens](https://linkinghub.elsevier.com/retrieve/pii/S2472555222075943) - Approaches for quality control in high-content imaging screens.
 
 ## Footnotes
 ### Similar lists and repositories
