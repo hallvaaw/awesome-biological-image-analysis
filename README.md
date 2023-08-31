@@ -77,6 +77,7 @@ Biological image analysis aims to increase our understanding of biology through 
 - [Brainreg](https://github.com/brainglobe/brainreg) - Automated 3D brain registration with support for multiple species and atlases.
 - [Brainreg-napari](https://github.com/brainglobe/brainreg-napari) - Automated 3D brain registration in napari with support for multiple species and atlases.
 - [Brainrender](https://github.com/brainglobe/brainrender) - Python package for the visualization of three dimensional neuro-anatomical data.
+- [CaImAn](https://github.com/flatironinstitute/CaImAn) - Computational toolbox for large scale Calcium Imaging Analysis.
 - [Cellfinder](https://github.com/brainglobe/cellfinder) - Automated 3D cell detection and registration of whole-brain images.
 - [Cellfinder-napari](https://github.com/brainglobe/cellfinder-napari) - Efficient cell detection in large images using [cellfinder](https://brainglobe.info/cellfinder) in napari.
 - [CloudVolume](https://github.com/seung-lab/cloud-volume) - Read and write Neuroglancer datasets programmatically.
