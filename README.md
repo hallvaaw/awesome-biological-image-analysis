@@ -30,6 +30,7 @@ Biological image analysis aims to increase our understanding of biology through 
 
 ## General image analysis software
 - [3D Slicer](https://github.com/Slicer/Slicer) - Free, open source and multi-platform software package widely used for medical, biomedical, and related imaging research.
+- [BiaPy](https://github.com/BiaPyX/BiaPy) - an open source ready-to-use all-in-one library that provides deep-learning workflows for a large variety of bioimage analysis tasks.
 - [BioImageXD](https://bioimagexd.net) - Free, open source software package for analyzing, processing and visualizing multi-dimensional microscopy images.
 - [Cell-ACDC](https://github.com/SchmollerLab/Cell_ACDC) - A GUI-based Python framework for segmentation, tracking, cell cycle annotations and quantification of microscopy data.
 - [CellProfiler](https://github.com/CellProfiler/CellProfiler) - Open-source software helping biologists turn images into cell measurements.
