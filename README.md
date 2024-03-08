@@ -113,6 +113,7 @@ Biological image analysis aims to increase our understanding of biology through 
 - [Big-fish](https://github.com/fish-quant/big-fish) - Python package for the analysis of smFISH images.
 - [DypFISH](https://github.com/cbib/dypfish) - Python library for spatial analysis of smFISH images.
 - [RS-FISH](https://github.com/PreibischLab/RS-FISH) - Fiji plugin to detect FISH spots in 2D/3D images which scales to very large images.
+- [Spotiflow](https://github.com/weigertlab/spotiflow) -  A deep learning-based, threshold-agnostic, and subpixel-accurate spot detection method developed for spatial transcriptomics workflows.
 - [TissUUmaps](https://tissuumaps.github.io/) - Visualizer of NGS data, plot millions of points and interact, gate, export. ISS rounds and base visualization.
 
 
