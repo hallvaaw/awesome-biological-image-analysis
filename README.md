@@ -59,6 +59,7 @@ Biological image analysis aims to increase our understanding of biology through 
 - [EBImage](https://github.com/aoles/EBImage) - Image processing toolbox for R.
 - [GPim](https://github.com/ziatdinovmax/GPim) - Gaussian processes and Bayesian optimization for images and hyperspectral data.
 - [MAPS](https://github.com/mahmoodlab/MAPS) - MAPS (Machine learning for Analysis of Proteomics in Spatial biology) is a machine learning approach facilitating rapid and precise cell type identification with human-level accuracy from spatial proteomics data.
+- [MicroSAM](https://github.com/computational-cell-analytics/micro-sam) - Tools for segmentation and tracking in microscopy build on top of SegmentAnything. Segment and track objects in microscopy images interactively.
 - [MorpholibJ](https://github.com/ijpb/MorphoLibJ) - Collection of mathematical morphology methods and plugins for ImageJ.
 - [PartSeg](https://github.com/4DNucleome/PartSeg) - A GUI and a library for segmentation algorithms.
 - [PyImSegm](https://github.com/Borda/pyImSegm) - Image segmentation - general superpixel segmentation and center detection and region growing.
@@ -114,6 +115,7 @@ Biological image analysis aims to increase our understanding of biology through 
 - [Big-fish](https://github.com/fish-quant/big-fish) - Python package for the analysis of smFISH images.
 - [DypFISH](https://github.com/cbib/dypfish) - Python library for spatial analysis of smFISH images.
 - [RS-FISH](https://github.com/PreibischLab/RS-FISH) - Fiji plugin to detect FISH spots in 2D/3D images which scales to very large images.
+- [Spotiflow](https://github.com/weigertlab/spotiflow) -  A deep learning-based, threshold-agnostic, and subpixel-accurate spot detection method developed for spatial transcriptomics workflows.
 - [TissUUmaps](https://tissuumaps.github.io/) - Visualizer of NGS data, plot millions of points and interact, gate, export. ISS rounds and base visualization.
 
 
