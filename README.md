@@ -46,6 +46,7 @@ Biological image analysis aims to increase our understanding of biology through 
 - [OpenCV](https://github.com/opencv/opencv) - Open source computer vision and machine learning software library.
 - [PYME](https://github.com/python-microscopy/python-microscopy) - Open-source application suite for light microscopy acquisition, data storage, visualization, and analysis.
 - [Scikit-image](https://github.com/scikit-image/scikit-image) - Collection of algorithms for image processing.
+- [htsimaging](https://github.com/rraadd88/htsimaging) - Python package for high-throughput single-cell imaging analysis (Python).
 
 
 ## Image processing and segmentation
@@ -148,6 +149,7 @@ absence of a ground truth.
 - [TraJClassifier](https://imagej.net/plugins/trajclassifier) - Fiji plugin that loads trajectories from TrackMate, characterizes them using TraJ and classifiies them into normal diffusion, subdiffusion, confined diffusion and directed/active motion by a random forest approach (through Renjin).
 - [QuimP](https://github.com/CellDynamics/QuimP) - Software for tracking cellular shape changes and dynamic distributions of fluorescent reporters at the cell membrane.
 - [Usiigaci](https://github.com/oist/usiigaci) - Stain-free cell tracking in phase contrast microscopy enabled by supervised machine learning.
+- [Trackpy](https://soft-matter.github.io/trackpy) - Trackpy: Fast, Flexible Particle-Tracking Toolkit (Python).
 
 ## Pathology
 - [FastPathology](https://github.com/AICAN-Research/FAST-Pathology) - Open-source software for deep learning-based digital pathology.
