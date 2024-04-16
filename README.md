@@ -46,8 +46,6 @@ Biological image analysis aims to increase our understanding of biology through 
 - [OpenCV](https://github.com/opencv/opencv) - Open source computer vision and machine learning software library.
 - [PYME](https://github.com/python-microscopy/python-microscopy) - Open-source application suite for light microscopy acquisition, data storage, visualization, and analysis.
 - [Scikit-image](https://github.com/scikit-image/scikit-image) - Collection of algorithms for image processing.
-- [htsimaging](https://github.com/rraadd88/htsimaging) - Python package for high-throughput single-cell imaging analysis (Python).
-
 
 ## Image processing and segmentation
 - [Ark-Analysis](https://github.com/angelolab/ark-analysis) - A pipeline toolbox for analyzing multiplexed imaging data.
@@ -172,9 +170,9 @@ absence of a ground truth.
 ## Yeast imaging
 - [BABY](https://git.ecdf.ed.ac.uk/swain-lab/baby/) - An image processing pipeline for accurate single-cell growth estimation of
 budding cells from bright-field stacks.
+- [htsimaging](https://github.com/rraadd88/htsimaging) - Python package for high-throughput single-cell imaging analysis.
 - [YeastMate](https://yeastmate.readthedocs.io/en/latest/) - Neural network-assisted segmentation of mating and budding events in S. cerevisiae.
 - [YeaZ](https://github.com/lpbsscientist/YeaZ-GUI) - An interactive tool for segmenting yeast cells using deep learning.
-
 
 
 ## Other
