@@ -51,6 +51,7 @@ Biological image analysis aims to increase our understanding of biology through 
 - [Ark-Analysis](https://github.com/angelolab/ark-analysis) - A pipeline toolbox for analyzing multiplexed imaging data.
 - [AtomAI](https://github.com/pycroscopy/atomai) - PyTorch-based package for deep/machine learning analysis of microscopy data.
 - [Cellpose](https://github.com/MouseLand/cellpose) - A generalist algorithm for cell and nucleus segmentation.
+- [CellSAM](https://github.com/vanvalenlab/cellSAM) -  A foundation model for cell segmentation trained on a diverse range of cells and data types.
 - [Cellshape](https://github.com/Sentinal4D/cellshape) - 3D single-cell shape analysis of cancer cells using geometric deep learning.
 - [CLIJ2](https://clij.github.io/) - GPU-accelerated image processing library for ImageJ/Fiji, Icy, MATLAB and Java.
 - [DeepCell](https://github.com/vanvalenlab/deepcell-tf) - Deep learning library for single cell analysis.
