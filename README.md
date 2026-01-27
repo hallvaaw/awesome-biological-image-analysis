@@ -71,6 +71,7 @@ Biological image analysis aims to increase our understanding of biology through 
 - [PyImSegm](https://github.com/Borda/pyImSegm) - Image segmentation - general superpixel segmentation and center detection and region growing.
 - [Salem²](https://github.com/JackieZhai/SALEM2) - Segment Anything in Light and Electron Microscopy via Membrane Guidance.
 - [Squidpy](https://github.com/scverse/squidpy) - Python framework that brings together tools from omics and image analysis to enable scalable description of spatial molecular data, such as transcriptome or multivariate proteins.
+- [SplineDist](https://github.com/uhlmanngroup/splinedist) - Object detection with spline curves.
 - [StarDist](https://github.com/stardist/stardist) - Object detection with Star-convex shapes.
 - [Suite2p](https://github.com/MouseLand/suite2p) - Pipeline for processing two-photon calcium imaging data.
 - [SyMBac](https://github.com/georgeoshardo/SyMBac) - Accurate segmentation of bacterial microscope images using synthetically generated image data.
