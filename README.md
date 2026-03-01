@@ -79,6 +79,7 @@ Biological image analysis aims to increase our understanding of biology through 
 
 ## Ecology
 - [PAT-GEOM](http://ianzwchan.com/my-research/pat-geom/) - A software package for the analysis of animal colour pattern.
+- [SLEAP](https://github.com/talmolab/sleap) - A deep learning framework for multi-animal pose tracking from video.
 - [ThermImageJ](https://github.com/gtatters/ThermImageJ) - ImageJ functions and macros for working with thermal image files.
 
 
