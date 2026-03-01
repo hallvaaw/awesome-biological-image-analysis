@@ -78,6 +78,7 @@ Biological image analysis aims to increase our understanding of biology through 
 - [Trainable Weka Segmentation](https://github.com/fiji/Trainable_Segmentation) - Fiji plugin and library that combines a collection of machine learning algorithms with a set of selected image features to produce pixel-based segmentations.
 
 ## Ecology
+- [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - A toolbox for markerless pose estimation of animals based on transfer learning with deep neural networks.
 - [PAT-GEOM](http://ianzwchan.com/my-research/pat-geom/) - A software package for the analysis of animal colour pattern.
 - [ThermImageJ](https://github.com/gtatters/ThermImageJ) - ImageJ functions and macros for working with thermal image files.
 
