@@ -10,10 +10,11 @@ Please make sure your pull request follows these guidelines:
 - Please make an individual pull request for *each* suggestion.
 - Use the following format: `[RESOURCE](LINK)` - DESCRIPTION.
 - End suggestions with a period and remove any trailing whitespace.
-- Keep descriptions concise
+- Keep descriptions concise.
 - Order the projects alphabetically within each category.
 - Check your spelling, grammar and cross-linking.
 - New categories, or improvements to the existing categorization are welcome.
+- Each contribution must be submitted by a human. AI or bot generated pull requests will not be approved.
 
 *This is a curation of valuable resources for biological image analysis, not a collection of all available software. You should only contribute with suggestions that you and others would recommend.*
 
