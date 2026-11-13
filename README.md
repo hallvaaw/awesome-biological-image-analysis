@@ -139,6 +139,7 @@ Biological image analysis aims to increase our understanding of biology through 
 - [Image Quality](https://github.com/ocampor/image-quality) - Open source software library for Image Quality Assessment (IQA).
 - [LLSpy](https://github.com/tlambert03/LLSpy) - Python library to facilitate lattice light sheet data processing.
 - [NCS](https://github.com/HuanglabPurdue/NCS) - Noise correction algorithm for sCMOS cameras.
+- [OpenFocus](https://github.com/Xinzhe99/OpenFocus) - Free and open-source focus stacking software for microscopy, macro and industrial stacks; ten fusion algorithms, 16-bit processing and a headless CLI (Windows/macOS GUI, Linux CLI via PyPI).
 
 
 ## Cell migration and particle tracking
